@@ -19073,6 +19073,432 @@
 	<tag>peaceful</tag>
 	<tag>Rock</tag>
   </sound>
+  <sound id="goodloop.mp3" name="Good Loop" downloadtype="progressive" subtype="bgmusic" duration="12946" enable="Y" is_premium="N" aid="24315" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="16777216_quadflip.mp3" name="QUADFLIP" downloadtype="progressive" subtype="bgmusic" duration="3998" enable="Y" is_premium="N" aid="24316" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Fun Fun Fun Fun.mp3" name="Fun Fun Fun Fun" downloadtype="progressive" subtype="bgmusic" duration="58760" enable="Y" is_premium="N" aid="24317" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="pvz_bejtwo.mp3" name="Bejeweled 2 PVZ" downloadtype="progressive" subtype="bgmusic" duration="209970" enable="Y" is_premium="N" aid="24318" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="FocusingFull.mp3" name="Focusing (HIGH QUALITY)" downloadtype="progressive" subtype="bgmusic" duration="230936" enable="Y" is_premium="N" aid="24319" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="MapleExtension.mp3" name="Maple Extension" downloadtype="progressive" subtype="bgmusic" duration="303539" enable="Y" is_premium="N" aid="24320" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="WomanLieBetter.mp3" name="Woman Lie Better - Hearts" downloadtype="progressive" subtype="bgmusic" duration="405069" enable="Y" is_premium="N" aid="24321" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="JuodaOrchideja.mp3" name="Black Orchid (Lithuanian)" downloadtype="progressive" subtype="bgmusic" duration="359923" enable="Y" is_premium="N" aid="24322" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SamsungIS.mp3" name="Samsung - IS" downloadtype="progressive" subtype="bgmusic" duration="57666" enable="Y" is_premium="N" aid="24323" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="HenryStickman.mp3" name="Distraction Dance" downloadtype="progressive" subtype="bgmusic" duration="58737" enable="Y" is_premium="N" aid="24324" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="LaimesZ.mp3" name="Laimes Ziburys" downloadtype="progressive" subtype="bgmusic" duration="311100" enable="Y" is_premium="N" aid="24325" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="EinStern.mp3" name="Ein Stern - Star - Zvaigzde" downloadtype="progressive" subtype="bgmusic" duration="301121" enable="Y" is_premium="N" aid="24326" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="ATMGL.mp3" name="Arciau taves" downloadtype="progressive" subtype="bgmusic" duration="320608" enable="Y" is_premium="N" aid="24327" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Dukra.mp3" name="Dukra" downloadtype="progressive" subtype="bgmusic" duration="233901" enable="Y" is_premium="N" aid="24328" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="KidTime.mp3" name="Child time" downloadtype="progressive" subtype="bgmusic" duration="26972" enable="Y" is_premium="N" aid="24329" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="OverTheHorizon.mp3" name="Over the Horizon" downloadtype="progressive" subtype="bgmusic" duration="258352" enable="Y" is_premium="N" aid="24330" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="dancemusic.mp3" name="Dance Music" downloadtype="progressive" subtype="bgmusic" duration="3541" enable="Y" is_premium="N" aid="24331" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SunAmbient.mp3" name="Ambience sun" downloadtype="progressive" subtype="bgmusic" duration="13506" enable="Y" is_premium="N" aid="24332" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="plainMusic.mp3" name="Plain" downloadtype="progressive" subtype="bgmusic" duration="16000" enable="Y" is_premium="N" aid="24333" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="volcano.mp3" name="Ambience volcano" downloadtype="progressive" subtype="bgmusic" duration="1148377" enable="Y" is_premium="N" aid="24334" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="ApolloLoop.mp3" name="Apollo loop" downloadtype="progressive" subtype="bgmusic" duration="7055" enable="Y" is_premium="N" aid="24335" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="YoggMusic.mp3" name="Yogg snake" downloadtype="progressive" subtype="bgmusic" duration="9492" enable="Y" is_premium="N" aid="24336" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="eerieClock.mp3" name="Chronos clock eerie" downloadtype="progressive" subtype="bgmusic" duration="15021" enable="Y" is_premium="N" aid="24337" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="PartyMusic.mp3" name="Party music" downloadtype="progressive" subtype="bgmusic" duration="15144" enable="Y" is_premium="N" aid="24338" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SonosThemePickcrafter.mp3" name="Sonos theme" downloadtype="progressive" subtype="bgmusic" duration="32352" enable="Y" is_premium="N" aid="24339" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="RiptidePickcrafter.mp3" name="Riptide theme" downloadtype="progressive" subtype="bgmusic" duration="8348" enable="Y" is_premium="N" aid="24340" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="wasteland_pc.mp3" name="Wasteland" downloadtype="progressive" subtype="bgmusic" duration="30057" enable="Y" is_premium="N" aid="24341" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="WaveP.mp3" name="Ambience water wave" downloadtype="progressive" subtype="bgmusic" duration="12860" enable="Y" is_premium="N" aid="24342" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="sonopck.mp3" name="Sonos Pickaxe" downloadtype="progressive" subtype="bgmusic" duration="13720" enable="Y" is_premium="N" aid="24343" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="AquaticLC.mp3" name="Aquatic Large Chest" downloadtype="progressive" subtype="bgmusic" duration="13714" enable="Y" is_premium="N" aid="24344" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="TEIPC.mp3" name="Terror" downloadtype="progressive" subtype="bgmusic" duration="11000" enable="Y" is_premium="N" aid="24345" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="PrestigePC.mp3" name="Prestige" downloadtype="progressive" subtype="bgmusic" duration="9995" enable="Y" is_premium="N" aid="24346" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="CursedPC.mp3" name="Cursed theme" downloadtype="progressive" subtype="bgmusic" duration="16990" enable="Y" is_premium="N" aid="24347" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="FBPKC.mp3" name="Pickcrafter - Fire" downloadtype="progressive" subtype="bgmusic" duration="9979" enable="Y" is_premium="N" aid="24348" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="rainloop_pickcrafter.mp3" name="Ambience loud rain" downloadtype="progressive" subtype="bgmusic" duration="28787" enable="Y" is_premium="N" aid="24349" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="HighScoreP.mp3" name="High score dance" downloadtype="progressive" subtype="bgmusic" duration="5513" enable="Y" is_premium="N" aid="24350" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="RadioactiveAP.mp3" name="Ambience radioactive" downloadtype="progressive" subtype="bgmusic" duration="15135" enable="Y" is_premium="N" aid="24351" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="HerobrineP.mp3" name="Herobrine" downloadtype="progressive" subtype="bgmusic" duration="14715" enable="Y" is_premium="N" aid="24352" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="HeartChestP.mp3" name="Heart chest" downloadtype="progressive" subtype="bgmusic" duration="11986" enable="Y" is_premium="N" aid="24353" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="FelixGameOver.mp3" name="Felix the HET - Game over" downloadtype="progressive" subtype="bgmusic" duration="5976" enable="Y" is_premium="N" aid="24354" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="FelixContinue.mp3" name="Felix the HET - Continue" downloadtype="progressive" subtype="bgmusic" duration="12831" enable="Y" is_premium="N" aid="24355" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SquidwardBreeze.mp3" name="Squidward Fad" downloadtype="progressive" subtype="bgmusic" duration="240117" enable="Y" is_premium="N" aid="24356" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="DiscordBeat.mp3" name="Discord Remix" downloadtype="progressive" subtype="bgmusic" duration="22688" enable="Y" is_premium="N" aid="24357" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="FocusingFC.mp3" name="Focusing (vocoded)" downloadtype="progressive" subtype="bgmusic" duration="230924" enable="Y" is_premium="N" aid="24358" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="tonetest.mp3" name="Tone test" downloadtype="progressive" subtype="bgmusic" duration="5593" enable="Y" is_premium="N" aid="24359" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="goanimateJingleRemix.mp3" name="GoAnimate Jingle Remix" downloadtype="progressive" subtype="bgmusic" duration="55355" enable="Y" is_premium="N" aid="24360" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="WiiTennisLowpass.mp3" name="Wii Sports - Tennis Training Lowpass" downloadtype="progressive" subtype="bgmusic" duration="244753" enable="Y" is_premium="N" aid="24361" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="sm64staffroll.mp3" name="SM64 Staff Roll" downloadtype="progressive" subtype="bgmusic" duration="320116" enable="Y" is_premium="N" aid="24362" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="hypercam.mp3" name="Unregistered Hypercam 2" downloadtype="progressive" subtype="bgmusic" duration="831626" enable="Y" is_premium="N" aid="24363" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="smb2_alt.mp3" name="SMB2 Overworld Alternate" downloadtype="progressive" subtype="bgmusic" duration="38548" enable="Y" is_premium="N" aid="24364" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="protegentguitar.mp3" name="Protegent Guitar" downloadtype="progressive" subtype="bgmusic" duration="9454" enable="Y" is_premium="N" aid="24365" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="aquaticruinzone_sonic2.mp3" name="Aquatic Ruin Zone" downloadtype="progressive" subtype="bgmusic" duration="36544" enable="Y" is_premium="N" aid="24366" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="dogc418.mp3" name="C418 - Dog" downloadtype="progressive" subtype="bgmusic" duration="225934" enable="Y" is_premium="N" aid="24367" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="sweden.mp3" name="C418 - Sweden" downloadtype="progressive" subtype="bgmusic" duration="335603" enable="Y" is_premium="N" aid="24368" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="calm4.mp3" name="Calm4" downloadtype="progressive" subtype="bgmusic" duration="313137" enable="Y" is_premium="N" aid="24369" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="colbreakz_mindcontrol.mp3" name="ColBreakz - Mind Control" downloadtype="progressive" subtype="bgmusic" duration="421866" enable="Y" is_premium="N" aid="24370" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="DisfigureBlankVip.mp3" name="Disfigure Blank VIP" downloadtype="progressive" subtype="bgmusic" duration="446055" enable="Y" is_premium="N" aid="24371" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="AlieneRemix.mp3" name="Aliene DJ Remix" downloadtype="progressive" subtype="bgmusic" duration="330117" enable="Y" is_premium="N" aid="24372" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="LimitlessElek.mp3" name="Elektronomia - Limitless" downloadtype="progressive" subtype="bgmusic" duration="404102" enable="Y" is_premium="N" aid="24373" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Summersong2018.mp3" name="Summersong 2018" downloadtype="progressive" subtype="bgmusic" duration="346104" enable="Y" is_premium="N" aid="24374" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="EnergyElek.mp3" name="Elektronomia - Energy" downloadtype="progressive" subtype="bgmusic" duration="318101" enable="Y" is_premium="N" aid="24375" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="win391.mp3" name="K-391 - Windows" downloadtype="progressive" subtype="bgmusic" duration="348638" enable="Y" is_premium="N" aid="24376" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Awakening_n.mp3" name="Awakening" downloadtype="progressive" subtype="bgmusic" duration="338084" enable="Y" is_premium="N" aid="24377" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="LenskoLetsgo.mp3" name="Lensko - Let's go" downloadtype="progressive" subtype="bgmusic" duration="327113" enable="Y" is_premium="N" aid="24378" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SmithFlashback.mp3" name="Flashback (Smith)" downloadtype="progressive" subtype="bgmusic" duration="417764" enable="Y" is_premium="N" aid="24379" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Nightkilla.mp3" name="NightKILLA - Poltergeist" downloadtype="progressive" subtype="bgmusic" duration="347149" enable="Y" is_premium="N" aid="24380" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="EmphaticOutcry.mp3" name="Emphatic Outcry" downloadtype="progressive" subtype="bgmusic" duration="345921" enable="Y" is_premium="N" aid="24381" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GhostSchtiffles.mp3" name="Schtiffles - Ghost House" downloadtype="progressive" subtype="bgmusic" duration="333147" enable="Y" is_premium="N" aid="24382" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="CCSS_diorama.mp3" name="Candy Crush Soda Saga - Diorama" downloadtype="progressive" subtype="bgmusic" duration="23509" enable="Y" is_premium="N" aid="24383" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="CCSS_longloop.mp3" name="Candy Crush Soda Saga - Long loop" downloadtype="progressive" subtype="bgmusic" duration="330493" enable="Y" is_premium="N" aid="24384" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="ChestP.mp3" name="Pickcrafter - Chest" downloadtype="progressive" subtype="bgmusic" duration="12122" enable="Y" is_premium="N" aid="24385" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GardenChestP.mp3" name="Pickcrafter - Garden Chest" downloadtype="progressive" subtype="bgmusic" duration="14322" enable="Y" is_premium="N" aid="24386" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="ChestSpookP.mp3" name="Pickcrafter - Spooky chest" downloadtype="progressive" subtype="bgmusic" duration="15612" enable="Y" is_premium="N" aid="24387" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="SS_mystery.mp3" name="Subway Surfers - Choir Prize" downloadtype="progressive" subtype="bgmusic" duration="8020" enable="Y" is_premium="N" aid="24388" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanSea.mp3" name="Blockman GO - Sea" downloadtype="progressive" subtype="bgmusic" duration="213839" enable="Y" is_premium="N" aid="24389" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanDead.mp3" name="Blockman GO - Dead" downloadtype="progressive" subtype="bgmusic" duration="129823" enable="Y" is_premium="N" aid="24390" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBedwar.mp3" name="Blockman GO - Bedwars" downloadtype="progressive" subtype="bgmusic" duration="346515" enable="Y" is_premium="N" aid="24391" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmParkour.mp3" name="Blockman GO - Parkour" downloadtype="progressive" subtype="bgmusic" duration="216155" enable="Y" is_premium="N" aid="24392" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmHG.mp3" name="Blockman GO - Hunger games" downloadtype="progressive" subtype="bgmusic" duration="30000" enable="Y" is_premium="N" aid="24393" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmClanwar.mp3" name="Blockman GO - Clanwars" downloadtype="progressive" subtype="bgmusic" duration="13363" enable="Y" is_premium="N" aid="24394" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmBuildbattle.mp3" name="Blockman GO - Build Battle" downloadtype="progressive" subtype="bgmusic" duration="51005" enable="Y" is_premium="N" aid="24395" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmRanchers.mp3" name="Blockman GO - Ranchers" downloadtype="progressive" subtype="bgmusic" duration="243117" enable="Y" is_premium="N" aid="24396" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmLoading.mp3" name="Blockman GO - Loading" downloadtype="progressive" subtype="bgmusic" duration="20181" enable="Y" is_premium="N" aid="24397" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmBirdSim.mp3" name="Blockman GO - Bird Simulator" downloadtype="progressive" subtype="bgmusic" duration="106819" enable="Y" is_premium="N" aid="24398" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmClanwarWait.mp3" name="Blockman GO - Clanwars waiting" downloadtype="progressive" subtype="bgmusic" duration="20719" enable="Y" is_premium="N" aid="24399" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmHideSeekWait.mp3" name="Blockman GO - Hide and Seek waiting" downloadtype="progressive" subtype="bgmusic" duration="28567" enable="Y" is_premium="N" aid="24400" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmHGWait.mp3" name="Blockman GO - Hunger games waiting" downloadtype="progressive" subtype="bgmusic" duration="12619" enable="Y" is_premium="N" aid="24401" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmJailWait.mp3" name="Blockman GO - Jailbreak waiting" downloadtype="progressive" subtype="bgmusic" duration="18451" enable="Y" is_premium="N" aid="24402" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmJail.mp3" name="Blockman GO - Jailbreak" downloadtype="progressive" subtype="bgmusic" duration="20323" enable="Y" is_premium="N" aid="24403" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmSand.mp3" name="Blockman GO - Sand digger" downloadtype="progressive" subtype="bgmusic" duration="22483" enable="Y" is_premium="N" aid="24404" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmSkywar.mp3" name="Blockman GO - Skywars" downloadtype="progressive" subtype="bgmusic" duration="19891" enable="Y" is_premium="N" aid="24405" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmSkywarWait.mp3" name="Blockman GO - Skywars waiting" downloadtype="progressive" subtype="bgmusic" duration="21079" enable="Y" is_premium="N" aid="24406" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmSnowballWait.mp3" name="Blockman GO - Snowball Battle waiting" downloadtype="progressive" subtype="bgmusic" duration="20791" enable="Y" is_premium="N" aid="24407" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmSnowball.mp3" name="Blockman GO - Snowball Battle" downloadtype="progressive" subtype="bgmusic" duration="20107" enable="Y" is_premium="N" aid="24408" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmTnt.mp3" name="Blockman GO - TNT Run" downloadtype="progressive" subtype="bgmusic" duration="13843" enable="Y" is_premium="N" aid="24409" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmZombie.mp3" name="Blockman GO - Zombie" downloadtype="progressive" subtype="bgmusic" duration="25327" enable="Y" is_premium="N" aid="24410" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="BlockmanBgmZombieWait.mp3" name="Blockman GO - Zombie waiting" downloadtype="progressive" subtype="bgmusic" duration="17371" enable="Y" is_premium="N" aid="24411" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="Action_EG_re.mp3" name="Action - Electric Guitar (HIGH QUALITY)" downloadtype="progressive" subtype="bgmusic" duration="30642" enable="Y" is_premium="N" aid="24412" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_BTM.mp3" name="DBZ - BTM" downloadtype="progressive" subtype="bgmusic" duration="446042" enable="Y" is_premium="N" aid="24413" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_AwesomeBoss.mp3" name="DBZ - Awesome Boss" downloadtype="progressive" subtype="bgmusic" duration="301201" enable="Y" is_premium="N" aid="24414" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_TrueStory.mp3" name="DBZ - True Story" downloadtype="progressive" subtype="bgmusic" duration="231247" enable="Y" is_premium="N" aid="24415" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_Flashman.mp3" name="DBZ - Megaman 2 Flashman" downloadtype="progressive" subtype="bgmusic" duration="116978" enable="Y" is_premium="N" aid="24416" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_LAL.mp3" name="DBZ - League" downloadtype="progressive" subtype="bgmusic" duration="431800" enable="Y" is_premium="N" aid="24417" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_DarkGaia.mp3" name="DBZ - Dark Gaia" downloadtype="progressive" subtype="bgmusic" duration="606216" enable="Y" is_premium="N" aid="24418" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_FinalCountdownDif.mp3" name="DBZ - Final Countdown" downloadtype="progressive" subtype="bgmusic" duration="351212" enable="Y" is_premium="N" aid="24419" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_GohanVsBuu.mp3" name="DBZ - Gohan vs Buu" downloadtype="progressive" subtype="bgmusic" duration="122088" enable="Y" is_premium="N" aid="24420" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_FireSonic.mp3" name="DBZ - Fire Sonic" downloadtype="progressive" subtype="bgmusic" duration="134006" enable="Y" is_premium="N" aid="24421" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_Headstrong.mp3" name="DBZ - Headstrong" downloadtype="progressive" subtype="bgmusic" duration="359636" enable="Y" is_premium="N" aid="24422" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_InYourFace.mp3" name="DBZ - In your face" downloadtype="progressive" subtype="bgmusic" duration="227564" enable="Y" is_premium="N" aid="24423" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_MarioBattle.mp3" name="DBZ - Mario Battle" downloadtype="progressive" subtype="bgmusic" duration="200057" enable="Y" is_premium="N" aid="24424" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_LiveLearn.mp3" name="DBZ - Live and Learn" downloadtype="progressive" subtype="bgmusic" duration="125972" enable="Y" is_premium="N" aid="24425" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_SonicFF.mp3" name="DBZ - Sonic finalflash" downloadtype="progressive" subtype="bgmusic" duration="321924" enable="Y" is_premium="N" aid="24426" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_DBZ_BGM_TalesOfSymphon.mp3" name="DBZ - Tales of Symphon" downloadtype="progressive" subtype="bgmusic" duration="244194" enable="Y" is_premium="N" aid="24427" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ScratchCave.mp3" name="Cave" downloadtype="progressive" subtype="bgmusic" duration="7426" enable="Y" is_premium="N" aid="24428" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_FlyingBatteryZone.mp3" name="Flying Battery Zone" downloadtype="progressive" subtype="bgmusic" duration="131376" enable="Y" is_premium="N" aid="24429" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ScratchChill.mp3" name="Chill" downloadtype="progressive" subtype="bgmusic" duration="8000" enable="Y" is_premium="N" aid="24430" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ScratchTechno.mp3" name="Techno" downloadtype="progressive" subtype="bgmusic" duration="7979" enable="Y" is_premium="N" aid="24431" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ScratchVideogame.mp3" name="Video Game" downloadtype="progressive" subtype="bgmusic" duration="6826" enable="Y" is_premium="N" aid="24432" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_LabyrinthZoneModern.mp3" name="Labyrinth Zone Modern Remix" downloadtype="progressive" subtype="bgmusic" duration="352698" enable="Y" is_premium="N" aid="24432" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_SA2HC.mp3" name="Sonic Advance 2 - Hot Crater" downloadtype="progressive" subtype="bgmusic" duration="205961" enable="Y" is_premium="N" aid="24433" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_STHFinalZone.mp3" name="Sonic the Hedgehog - Final Zone" downloadtype="progressive" subtype="bgmusic" duration="104249" enable="Y" is_premium="N" aid="24434" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_meme_SpanishFlea.mp3" name="Comedy - Spanish Flea" downloadtype="progressive" subtype="bgmusic" duration="206238" enable="Y" is_premium="N" aid="24435" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_meme_Enthusiasm.mp3" name="Comedy - Enthusiasm" downloadtype="progressive" subtype="bgmusic" duration="107645" enable="Y" is_premium="N" aid="24436" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_meme_ElevatorMusic.mp3" name="Elevator Music" downloadtype="progressive" subtype="bgmusic" duration="309872" enable="Y" is_premium="N" aid="24437" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_CaveStory.mp3" name="Cave Story - Doukutsu Monogatari" downloadtype="progressive" subtype="bgmusic" duration="214648" enable="Y" is_premium="N" aid="24438" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_BakaMitai.mp3" name="Baka Mitai - Dame da ne (Taxi Driver)" downloadtype="progressive" subtype="bgmusic" duration="448481" enable="Y" is_premium="N" aid="24439" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_SJQT.mp3" name="Super Jewel Quest theme" downloadtype="progressive" subtype="bgmusic" duration="17681" enable="Y" is_premium="N" aid="24440" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_SMBZ_Doomsday.mp3" name="SMBZ - Doomsday theme" downloadtype="progressive" subtype="bgmusic" duration="326876" enable="Y" is_premium="N" aid="24441" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_RedZone.mp3" name="RED ZONE" downloadtype="progressive" subtype="bgmusic" duration="336125" enable="Y" is_premium="N" aid="24442" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_OggyTheme.mp3" name="Oggy and the Cockroaches" downloadtype="progressive" subtype="bgmusic" duration="40072" enable="Y" is_premium="N" aid="24443" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_RockMainRemix.mp3" name="Rock and Roll 8-bit" downloadtype="progressive" subtype="bgmusic" duration="350970" enable="Y" is_premium="N" aid="24444" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_HuaweiTune.mp3" name="Huawei Tune" downloadtype="progressive" subtype="bgmusic" duration="29579" enable="Y" is_premium="N" aid="24445" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_StaggeringBeauty.mp3" name="Staggering Beauty (LOUD)" downloadtype="progressive" subtype="bgmusic" duration="19240" enable="Y" is_premium="N" aid="24446" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_MessengerRemix.mp3" name="Facebook Messenger remix" downloadtype="progressive" subtype="bgmusic" duration="215381" enable="Y" is_premium="N" aid="24447" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_MSN.mp3" name="MSN Messenger remix" downloadtype="progressive" subtype="bgmusic" duration="157121" enable="Y" is_premium="N" aid="24448" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ChristmasDance.mp3" name="SMAF Christmas dance" downloadtype="progressive" subtype="bgmusic" duration="50083" enable="Y" is_premium="N" aid="24449" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_JavaApps.mp3" name="Java apps theme" downloadtype="progressive" subtype="bgmusic" duration="12212" enable="Y" is_premium="N" aid="24450" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_SLAMC_Notch.mp3" name="Satan looks after my children" downloadtype="progressive" subtype="bgmusic" duration="549820" enable="Y" is_premium="N" aid="24451" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_Song03.mp3" name="03" downloadtype="progressive" subtype="bgmusic" duration="444717" enable="Y" is_premium="N" aid="24452" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ResturantAmbience.mp3" name="Ambience - Restaurant" downloadtype="progressive" subtype="bgmusic" duration="26664" enable="Y" is_premium="N" aid="24453" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_ResturantAmbienceCrowded.mp3" name="Ambience - Restaurant 2" downloadtype="progressive" subtype="bgmusic" duration="152445" enable="Y" is_premium="N" aid="24454" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_AquaticVoyage.mp3" name="Aquatic Voyage" downloadtype="progressive" subtype="bgmusic" duration="113888" enable="Y" is_premium="N" aid="24455" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
   <sound id="spread_your_wings.mp3" name="Spread your wings" downloadtype="progressive" subtype="bgmusic" duration="142864" enable="Y" is_premium="N" aid="26260" money="0" sharing="0"/>
   <sound id="epic_hollywood_trailer.mp3" name="Epic Hollywood trailer" downloadtype="progressive" subtype="bgmusic" duration="91611" enable="Y" is_premium="N" aid="26261" money="0" sharing="0"/>
   <sound id="clap_tap.mp3" name="Clap tap" downloadtype="progressive" subtype="bgmusic" duration="101094" enable="Y" is_premium="N" aid="26262" money="0" sharing="0"/>
@@ -19210,7 +19636,7 @@
   <sound id="E850 Boot.mp3" name="Samsung SGH-E850" downloadtype="progressive" subtype="soundeffect" duration="24288" enable="Y" is_premium="N" aid="27755" money="0" sharing="0"/>
   <sound id="fan Mid.mp3" name="Samsung SGH-C300 MidRadio" downloadtype="progressive" subtype="soundeffect" duration="12945" enable="Y" is_premium="N" aid="27756" money="0" sharing="0"/>
   <sound id="GM X300.mp3" name="Samsung SGH-C300 GM" downloadtype="progressive" subtype="soundeffect" duration="10902" enable="Y" is_premium="N" aid="27757" money="0" sharing="0"/>
-  <sound id="LG W3000 Boot.mp3" name="LG W3000" downloadtype="progressive" subtype="soundeffect" duration="9744" enable="Y" is_premium="N" aid="27751" money="0" sharing="0"/>
+  <sound id="LG W3000 Boot.mp3" name="LG W3000" downloadtype="progressive" subtype="soundeffect" duration="9744" enable="Y" is_premium="N" aid="28061" money="0" sharing="0"/>
   <sound id="M600 Message.mp3" name="Samsung SGH-M600 msg" downloadtype="progressive" subtype="soundeffect" duration="2868" enable="Y" is_premium="N" aid="27758" money="0" sharing="0"/>
   <sound id="Nokia Orig boot.mp3" name="Nokia Startup" downloadtype="progressive" subtype="soundeffect" duration="5617" enable="Y" is_premium="N" aid="27759" money="0" sharing="0"/>
   <sound id="Power on classic.mp3" name="Samsung Fun Club on" downloadtype="progressive" subtype="soundeffect" duration="4771" enable="Y" is_premium="N" aid="27760" money="0" sharing="0"/>
@@ -19226,6 +19652,296 @@
   <sound id="X620 Boot.mp3" name="Samsung SGH-X620" downloadtype="progressive" subtype="soundeffect" duration="1649" enable="Y" is_premium="N" aid="27770" money="0" sharing="0"/>
   <sound id="x830 boot low battery.mp3" name="Samsung SGH-X830" downloadtype="progressive" subtype="soundeffect" duration="29273" enable="Y" is_premium="N" aid="27771" money="0" sharing="0"/>
   <sound id="X830 Boot MidRadio.mp3" name="Samsung SGH-X830 MidRadio" downloadtype="progressive" subtype="soundeffect" duration="21269" enable="Y" is_premium="N" aid="27772" money="0" sharing="0"/>
+  <sound id="flamebonus.mp3" name="Flame Bonus" downloadtype="progressive" subtype="soundeffect" duration="3104" enable="Y" is_premium="N" aid="27773" money="0" sharing="0"/>
+  <sound id="firework_crackle.mp3" name="Firework Crackle" downloadtype="progressive" subtype="soundeffect" duration="2029" enable="Y" is_premium="N" aid="27774" money="0" sharing="0"/>
+  <sound id="electro_path.mp3" name="Electricity Connect" downloadtype="progressive" subtype="soundeffect" duration="500" enable="Y" is_premium="N" aid="27775" money="0" sharing="0"/>
+  <sound id="carddeal.mp3" name="Deal with Cards" downloadtype="progressive" subtype="soundeffect" duration="742" enable="Y" is_premium="N" aid="27776" money="0" sharing="0"/>
+  <sound id="scream.mp3" name="Crazy Dave Scream" downloadtype="progressive" subtype="soundeffect" duration="2781" enable="Y" is_premium="N" aid="27777" money="0" sharing="0"/>
+  <sound id="readysetplant.mp3" name="Ready - Set - Plant" downloadtype="progressive" subtype="soundeffect" duration="5255" enable="Y" is_premium="N" aid="27778" money="0" sharing="0"/>
+  <sound id="evillaugh.mp3" name="Evil Laughing Zombie" downloadtype="progressive" subtype="soundeffect" duration="3589" enable="Y" is_premium="N" aid="27779" money="0" sharing="0"/>
+  <sound id="x_lose.mp3" name="X_X Lose" downloadtype="progressive" subtype="soundeffect" duration="4764" enable="Y" is_premium="N" aid="27780" money="0" sharing="0"/>
+  <sound id="e700 battery low.mp3" name="Samsung SGH-E700 Battery Low" downloadtype="progressive" subtype="soundeffect" duration="1518" enable="Y" is_premium="N" aid="27772" money="0" sharing="0"/>
+  <sound id="SEGA.mp3" name="Sega" downloadtype="progressive" subtype="soundeffect" duration="1686" enable="Y" is_premium="N" aid="27781" money="0" sharing="0"/>
+  <sound id="SGA.mp3" name="Sega (16khz)" downloadtype="progressive" subtype="soundeffect" duration="1558" enable="Y" is_premium="N" aid="27782" money="0" sharing="0"/>
+  <sound id="gadget.mp3" name="Gadget" downloadtype="progressive" subtype="soundeffect" duration="8260" enable="Y" is_premium="N" aid="27783" money="0" sharing="0"/>
+  <sound id="transform.mp3" name="Transform" downloadtype="progressive" subtype="soundeffect" duration="2522" enable="Y" is_premium="N" aid="27784" money="0" sharing="0"/>
+  <sound id="chimes_cs.mp3" name="Plate bells hitting" downloadtype="progressive" subtype="soundeffect" duration="7709" enable="Y" is_premium="N" aid="27785" money="0" sharing="0"/>
+  <sound id="lgkstart.mp3" name="LG K series Startup" downloadtype="progressive" subtype="soundeffect" duration="2995" enable="Y" is_premium="N" aid="27786" money="0" sharing="0"/>
+  <sound id="lgkshutdown.mp3" name="LG K series Shutdown" downloadtype="progressive" subtype="soundeffect" duration="2191" enable="Y" is_premium="N" aid="27787" money="0" sharing="0"/>
+  <sound id="PantechStartup.mp3" name="Pantech Startup" downloadtype="progressive" subtype="soundeffect" duration="7208" enable="Y" is_premium="N" aid="27788" money="0" sharing="0"/>
+  <sound id="PantechShutdown.mp3" name="Pantech Shutdown" downloadtype="progressive" subtype="soundeffect" duration="7872" enable="Y" is_premium="N" aid="27789" money="0" sharing="0"/>
+  <sound id="SamsungSgn.mp3" name="Samsung - Signature" downloadtype="progressive" subtype="soundeffect" duration="7328" enable="Y" is_premium="N" aid="27790" money="0" sharing="0"/>
+  <sound id="HahaMagic.mp3" name="Magic Word Error" downloadtype="progressive" subtype="soundeffect" duration="3567" enable="Y" is_premium="N" aid="27791" money="0" sharing="0"/>
+  <sound id="AaahBuddy.mp3" name="BonziKILL - Scream" downloadtype="progressive" subtype="soundeffect" duration="2736" enable="Y" is_premium="N" aid="27792" money="0" sharing="0"/>
+  <sound id="SnareHorde.mp3" name="Horde Snare" downloadtype="progressive" subtype="soundeffect" duration="5647" enable="Y" is_premium="N" aid="27793" money="0" sharing="0"/>
+  <sound id="mamafucker.mp3" name="SMG4 - MAMAFUCKER" downloadtype="progressive" subtype="soundeffect" duration="1277" enable="Y" is_premium="N" aid="27794" money="0" sharing="0"/>
+  <sound id="glassbreak3.mp3" name="Pickcrafter - Glass Break" downloadtype="progressive" subtype="soundeffect" duration="586" enable="Y" is_premium="N" aid="27795" money="0" sharing="0"/>
+  <sound id="PlainTransition.mp3" name="Pickcrafter - Plain Biome" downloadtype="progressive" subtype="soundeffect" duration="1350" enable="Y" is_premium="N" aid="27796" money="0" sharing="0"/>
+  <sound id="pickaxeUpgradeInit.mp3" name="Pickcrafter - Upgrade" downloadtype="progressive" subtype="soundeffect" duration="3554" enable="Y" is_premium="N" aid="27797" money="0" sharing="0"/>
+  <sound id="pickaxeUpgradeFadeOut.mp3" name="Pickcrafter - Upgrade (fade)" downloadtype="progressive" subtype="soundeffect" duration="6168" enable="Y" is_premium="N" aid="27798" money="0" sharing="0"/>
+  <sound id="genericerror.mp3" name="Pickcrafter - Generic Error" downloadtype="progressive" subtype="soundeffect" duration="2166" enable="Y" is_premium="N" aid="27799" money="0" sharing="0"/>
+  <sound id="SlotWin.mp3" name="Slot Machine Win" downloadtype="progressive" subtype="soundeffect" duration="2666" enable="Y" is_premium="N" aid="27800" money="0" sharing="0"/>
+  <sound id="FuriousFire.mp3" name="Furious Fire" downloadtype="progressive" subtype="soundeffect" duration="8301" enable="Y" is_premium="N" aid="27801" money="0" sharing="0"/>
+  <sound id="Fallscream_Fixed.mp3" name="Fallscream" downloadtype="progressive" subtype="soundeffect" duration="2845" enable="Y" is_premium="N" aid="27802" money="0" sharing="0"/>
+  <sound id="MissionFailedNextTime.mp3" name="Mission Failed" downloadtype="progressive" subtype="soundeffect" duration="3074" enable="Y" is_premium="N" aid="27803" money="0" sharing="0"/>
+  <sound id="MonitorBreak.mp3" name="PC Monitor Break" downloadtype="progressive" subtype="soundeffect" duration="1141" enable="Y" is_premium="N" aid="27804" money="0" sharing="0"/>
+  <sound id="ScreamTerror.mp3" name="Male Terror Scream" downloadtype="progressive" subtype="soundeffect" duration="2254" enable="Y" is_premium="N" aid="27805" money="0" sharing="0"/>
+  <sound id="Scream3.mp3" name="Male Terror Scream 2" downloadtype="progressive" subtype="soundeffect" duration="3201" enable="Y" is_premium="N" aid="27806" money="0" sharing="0"/>
+  <sound id="Scream4.mp3" name="Male Scream crazy" downloadtype="progressive" subtype="soundeffect" duration="3383" enable="Y" is_premium="N" aid="27807" money="0" sharing="0"/>
+  <sound id="Scream5.mp3" name="Male Scream crazy short" downloadtype="progressive" subtype="soundeffect" duration="1687" enable="Y" is_premium="N" aid="27808" money="0" sharing="0"/>
+  <sound id="WindowsBells.mp3" name="Windows 98 Secret Startup" downloadtype="progressive" subtype="soundeffect" duration="3507" enable="Y" is_premium="N" aid="27809" money="0" sharing="0"/>
+  <sound id="smb2_complete.mp3" name="SMB2 - Boss Complete" downloadtype="progressive" subtype="soundeffect" duration="4110" enable="Y" is_premium="N" aid="27810" money="0" sharing="0"/>
+  <sound id="metal_explode.mp3" name="Explosion - metal" downloadtype="progressive" subtype="soundeffect" duration="9889" enable="Y" is_premium="N" aid="27811" money="0" sharing="0"/>
+  <sound id="ftc_fail.mp3" name="Fleeing the Complex - fail" downloadtype="progressive" subtype="soundeffect" duration="653" enable="Y" is_premium="N" aid="27812" money="0" sharing="0"/>
+  <sound id="LeapsterShutdown.mp3" name="Leapster Shutdown" downloadtype="progressive" subtype="soundeffect" duration="1276" enable="Y" is_premium="N" aid="27813" money="0" sharing="0"/>
+  <sound id="pinkie_hey.mp3" name="Pinkie Pie - Hey" downloadtype="progressive" subtype="soundeffect" duration="1801" enable="Y" is_premium="N" aid="27814" money="0" sharing="0"/>
+  <sound id="Smack_Cartoon.mp3" name="Cartoon - Smack" downloadtype="progressive" subtype="soundeffect" duration="645" enable="Y" is_premium="N" aid="27815" money="0" sharing="0"/>
+  <sound id="achieve_cure.mp3" name="Achieve" downloadtype="progressive" subtype="soundeffect" duration="10120" enable="Y" is_premium="N" aid="27816" money="0" sharing="0"/>
+  <sound id="poopfast.mp3" name="Meme - Poop fast" downloadtype="progressive" subtype="soundeffect" duration="1294" enable="Y" is_premium="N" aid="27817" money="0" sharing="0"/>
+  <sound id="destruction.mp3" name="Destruction" downloadtype="progressive" subtype="soundeffect" duration="2550" enable="Y" is_premium="N" aid="27818" money="0" sharing="0"/>
+  <sound id="SegaSaturnNtsc.mp3" name="Sega Saturn NTSC" downloadtype="progressive" subtype="soundeffect" duration="7206" enable="Y" is_premium="N" aid="27819" money="0" sharing="0"/>
+  <sound id="WiiStart.mp3" name="Wii Startup" downloadtype="progressive" subtype="soundeffect" duration="2842" enable="Y" is_premium="N" aid="27820" money="0" sharing="0"/>
+  <sound id="MinesweeperExplode.mp3" name="Minesweeper - Lose" downloadtype="progressive" subtype="soundeffect" duration="1164" enable="Y" is_premium="N" aid="27821" money="0" sharing="0"/>
+  <sound id="MinesweeperWin.mp3" name="Minesweeper - Win" downloadtype="progressive" subtype="soundeffect" duration="1720" enable="Y" is_premium="N" aid="27822" money="0" sharing="0"/>
+  <sound id="HotelMarioNo.mp3" name="Hotel Mario - No" downloadtype="progressive" subtype="soundeffect" duration="751" enable="Y" is_premium="N" aid="27823" money="0" sharing="0"/>
+  <sound id="HotelMarioToast.mp3" name="Hotel Mario - All toasters" downloadtype="progressive" subtype="soundeffect" duration="4076" enable="Y" is_premium="N" aid="27824" money="0" sharing="0"/>
+  <sound id="HotelMarioBowserLaugh.mp3" name="Hotel Mario - Bowser laugh" downloadtype="progressive" subtype="soundeffect" duration="2054" enable="Y" is_premium="N" aid="27825" money="0" sharing="0"/>
+  <sound id="HotelMarioSpaghetti.mp3" name="Hotel Mario - Luigi Spaghetti" downloadtype="progressive" subtype="soundeffect" duration="1973" enable="Y" is_premium="N" aid="27826" money="0" sharing="0"/>
+  <sound id="HotelMarioBook.mp3" name="Hotel Mario - Instruction book" downloadtype="progressive" subtype="soundeffect" duration="6081" enable="Y" is_premium="N" aid="27827" money="0" sharing="0"/>
+  <sound id="CCS_flash.mp3" name="CCS zap flash" downloadtype="progressive" subtype="soundeffect" duration="1046" enable="Y" is_premium="N" aid="27828" money="0" sharing="0"/>
+  <sound id="win98boot.mp3" name="Windows 98 Startup" downloadtype="progressive" subtype="soundeffect" duration="7859" enable="Y" is_premium="N" aid="27829" money="0" sharing="0"/>
+  <sound id="win98boot_off.mp3" name="Windows 98 Shutdown" downloadtype="progressive" subtype="soundeffect" duration="3549" enable="Y" is_premium="N" aid="27830" money="0" sharing="0"/>
+  <sound id="win2000boot.mp3" name="Windows 2000 Startup" downloadtype="progressive" subtype="soundeffect" duration="5512" enable="Y" is_premium="N" aid="27831" money="0" sharing="0"/>
+  <sound id="win2000boot_off.mp3" name="Windows 2000 Shutdown" downloadtype="progressive" subtype="soundeffect" duration="3901" enable="Y" is_premium="N" aid="27832" money="0" sharing="0"/>
+  <sound id="win95boot.mp3" name="Windows 95 Startup" downloadtype="progressive" subtype="soundeffect" duration="6123" enable="Y" is_premium="N" aid="27833" money="0" sharing="0"/>
+  <sound id="win2000tada.mp3" name="Windows 2000 Tada" downloadtype="progressive" subtype="soundeffect" duration="1939" enable="Y" is_premium="N" aid="27834" money="0" sharing="0"/>
+  <sound id="SlapCareful.mp3" name="Slap" downloadtype="progressive" subtype="soundeffect" duration="505" enable="Y" is_premium="N" aid="27772" money="0" sharing="0"/>
+  <sound id="gba_boot.mp3" name="Gameboy Advance - Boot" downloadtype="progressive" subtype="soundeffect" duration="3829" enable="Y" is_premium="N" aid="27835" money="0" sharing="0"/>
+  <sound id="BlockmanHit.mp3" name="Blockman GO - Punch" downloadtype="progressive" subtype="soundeffect" duration="563" enable="Y" is_premium="N" aid="27836" money="0" sharing="0"/>
+  <sound id="Blockman98k.mp3" name="Blockman GO - 98k" downloadtype="progressive" subtype="soundeffect" duration="1555" enable="Y" is_premium="N" aid="27837" money="0" sharing="0"/>
+  <sound id="BlockmanHurt.mp3" name="Blockman GO - Hurt" downloadtype="progressive" subtype="soundeffect" duration="375" enable="Y" is_premium="N" aid="27838" money="0" sharing="0"/>
+  <sound id="BlockmanExplodeBig.mp3" name="Blockman GO - Big Explode" downloadtype="progressive" subtype="soundeffect" duration="4000" enable="Y" is_premium="N" aid="27839" money="0" sharing="0"/>
+  <sound id="BlockmanAK1.mp3" name="Blockman GO - AK1" downloadtype="progressive" subtype="soundeffect" duration="537" enable="Y" is_premium="N" aid="27840" money="0" sharing="0"/>
+  <sound id="BlockmanAK2.mp3" name="Blockman GO - AK2" downloadtype="progressive" subtype="soundeffect" duration="510" enable="Y" is_premium="N" aid="27841" money="0" sharing="0"/>
+  <sound id="BlockmanPistol.mp3" name="Blockman GO - Pistol" downloadtype="progressive" subtype="soundeffect" duration="1059" enable="Y" is_premium="N" aid="27842" money="0" sharing="0"/>
+  <sound id="BlockmanShotgun.mp3" name="Blockman GO - Shotgun" downloadtype="progressive" subtype="soundeffect" duration="691" enable="Y" is_premium="N" aid="27843" money="0" sharing="0"/>
+  <sound id="BlockmanSniper.mp3" name="Blockman GO - Sniper gun" downloadtype="progressive" subtype="soundeffect" duration="1007" enable="Y" is_premium="N" aid="27844" money="0" sharing="0"/>
+  <sound id="BlockmanCleanReload.mp3" name="Blockman GO - Reload" downloadtype="progressive" subtype="soundeffect" duration="955" enable="Y" is_premium="N" aid="27845" money="0" sharing="0"/>
+  <sound id="BlockmanEmptyGun.mp3" name="Blockman GO - Empty ammo" downloadtype="progressive" subtype="soundeffect" duration="244" enable="Y" is_premium="N" aid="27846" money="0" sharing="0"/>
+  <sound id="BlockmanM4A1.mp3" name="Blockman GO - M4A1" downloadtype="progressive" subtype="soundeffect" duration="510" enable="Y" is_premium="N" aid="27847" money="0" sharing="0"/>
+  <sound id="BlockmanPistolReady.mp3" name="Blockman GO - Pistol ready" downloadtype="progressive" subtype="soundeffect" duration="691" enable="Y" is_premium="N" aid="27848" money="0" sharing="0"/>
+  <sound id="BlockmanAKReady.mp3" name="Blockman GO - AK ready" downloadtype="progressive" subtype="soundeffect" duration="1683" enable="Y" is_premium="N" aid="27849" money="0" sharing="0"/>
+  <sound id="BlockmanBgmCompleteFail.mp3" name="Blockman GO - Failed" downloadtype="progressive" subtype="soundeffect" duration="2861" enable="Y" is_premium="N" aid="27850" money="0" sharing="0"/>
+  <sound id="BlockmanBgmComplete.mp3" name="Blockman GO - Completed" downloadtype="progressive" subtype="soundeffect" duration="5347" enable="Y" is_premium="N" aid="27851" money="0" sharing="0"/>
+  <sound id="BlockmanGunCrash.mp3" name="Blockman GO - Gun broken" downloadtype="progressive" subtype="soundeffect" duration="1543" enable="Y" is_premium="N" aid="27852" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Aura.mp3" name="DBZ - Aura" downloadtype="progressive" subtype="soundeffect" duration="5759" enable="Y" is_premium="N" aid="27853" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BigAura.mp3" name="DBZ - Big Aura" downloadtype="progressive" subtype="soundeffect" duration="1818" enable="Y" is_premium="N" aid="27854" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamChargeEvil.mp3" name="DBZ - Beam Charge Evil" downloadtype="progressive" subtype="soundeffect" duration="3462" enable="Y" is_premium="N" aid="27855" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamCharge.mp3" name="DBZ - Beam Charge" downloadtype="progressive" subtype="soundeffect" duration="3462" enable="Y" is_premium="N" aid="27856" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamFire.mp3" name="DBZ - Beam Fire" downloadtype="progressive" subtype="soundeffect" duration="5702" enable="Y" is_premium="N" aid="27857" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Boom.mp3" name="DBZ - Boom" downloadtype="progressive" subtype="soundeffect" duration="4338" enable="Y" is_premium="N" aid="27858" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Chainswoop.mp3" name="DBZ - Chainswoop" downloadtype="progressive" subtype="soundeffect" duration="2612" enable="Y" is_premium="N" aid="27859" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Explosion.mp3" name="DBZ - Explosion" downloadtype="progressive" subtype="soundeffect" duration="2723" enable="Y" is_premium="N" aid="27860" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_ExplosionAtom.mp3" name="DBZ - Atomic Explosion" downloadtype="progressive" subtype="soundeffect" duration="9720" enable="Y" is_premium="N" aid="27861" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_ExplosionDown.mp3" name="DBZ - Explosion from down" downloadtype="progressive" subtype="soundeffect" duration="2400" enable="Y" is_premium="N" aid="27862" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Finalflash.mp3" name="DBZ - Finalflash" downloadtype="progressive" subtype="soundeffect" duration="3859" enable="Y" is_premium="N" aid="27863" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_GroundHit.mp3" name="DBZ - Ground hit" downloadtype="progressive" subtype="soundeffect" duration="789" enable="Y" is_premium="N" aid="27864" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_GroundRecover.mp3" name="DBZ - Ground recover" downloadtype="progressive" subtype="soundeffect" duration="411" enable="Y" is_premium="N" aid="27865" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Jump.mp3" name="DBZ - Jump" downloadtype="progressive" subtype="soundeffect" duration="1059" enable="Y" is_premium="N" aid="27866" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KameCharge.mp3" name="DBZ - Kamehameha Charge" downloadtype="progressive" subtype="soundeffect" duration="6200" enable="Y" is_premium="N" aid="27867" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KameFire.mp3" name="DBZ - Kamehameha Fire" downloadtype="progressive" subtype="soundeffect" duration="5759" enable="Y" is_premium="N" aid="27868" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KiExplode.mp3" name="DBZ - Ki Explode" downloadtype="progressive" subtype="soundeffect" duration="3077" enable="Y" is_premium="N" aid="27869" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MaseCharge.mp3" name="DBZ - Mase Charge" downloadtype="progressive" subtype="soundeffect" duration="1747" enable="Y" is_premium="N" aid="27870" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MediumKick.mp3" name="DBZ - Medium Kick" downloadtype="progressive" subtype="soundeffect" duration="348" enable="Y" is_premium="N" aid="27871" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MediumPunch.mp3" name="DBZ - Medium Punch" downloadtype="progressive" subtype="soundeffect" duration="407" enable="Y" is_premium="N" aid="27872" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeFlash.mp3" name="DBZ - Melee flash" downloadtype="progressive" subtype="soundeffect" duration="2383" enable="Y" is_premium="N" aid="27873" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeHit.mp3" name="DBZ - Melee hit" downloadtype="progressive" subtype="soundeffect" duration="1174" enable="Y" is_premium="N" aid="27874" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeHitAlt.mp3" name="DBZ - Melee hit alternate" downloadtype="progressive" subtype="soundeffect" duration="515" enable="Y" is_premium="N" aid="27875" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeMiss.mp3" name="DBZ - Melee miss" downloadtype="progressive" subtype="soundeffect" duration="358" enable="Y" is_premium="N" aid="27876" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeMiss2.mp3" name="DBZ - Melee miss 2" downloadtype="progressive" subtype="soundeffect" duration="303" enable="Y" is_premium="N" aid="27877" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeMiss3.mp3" name="DBZ - Melee miss 3" downloadtype="progressive" subtype="soundeffect" duration="420" enable="Y" is_premium="N" aid="27878" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeUp.mp3" name="DBZ - Melee up" downloadtype="progressive" subtype="soundeffect" duration="1633" enable="Y" is_premium="N" aid="27879" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Prepunch.mp3" name="DBZ - Prepunches" downloadtype="progressive" subtype="soundeffect" duration="370" enable="Y" is_premium="N" aid="27880" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Presword.mp3" name="DBZ - Preswords" downloadtype="progressive" subtype="soundeffect" duration="3595" enable="Y" is_premium="N" aid="27881" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BasicPunch.mp3" name="DBZ - Basic Punch" downloadtype="progressive" subtype="soundeffect" duration="411" enable="Y" is_premium="N" aid="27882" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_RapidPunch.mp3" name="DBZ - Rapid Punch" downloadtype="progressive" subtype="soundeffect" duration="2766" enable="Y" is_premium="N" aid="27883" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_StrongKick.mp3" name="DBZ - Strong Kick" downloadtype="progressive" subtype="soundeffect" duration="1493" enable="Y" is_premium="N" aid="27884" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_StrongPunch.mp3" name="DBZ - Strong Punch" downloadtype="progressive" subtype="soundeffect" duration="1350" enable="Y" is_premium="N" aid="27885" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Supermove.mp3" name="DBZ - Super moves" downloadtype="progressive" subtype="soundeffect" duration="894" enable="Y" is_premium="N" aid="27886" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Swoop.mp3" name="DBZ - Swoop" downloadtype="progressive" subtype="soundeffect" duration="2586" enable="Y" is_premium="N" aid="27887" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SwoopFall.mp3" name="DBZ - Swoop hit" downloadtype="progressive" subtype="soundeffect" duration="4627" enable="Y" is_premium="N" aid="27888" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SwordAttack.mp3" name="DBZ - Sword attack" downloadtype="progressive" subtype="soundeffect" duration="293" enable="Y" is_premium="N" aid="27889" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SwordKill.mp3" name="DBZ - Sword kill" downloadtype="progressive" subtype="soundeffect" duration="4605" enable="Y" is_premium="N" aid="27890" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SwordStrongSlice.mp3" name="DBZ - Sword attack strongly" downloadtype="progressive" subtype="soundeffect" duration="692" enable="Y" is_premium="N" aid="27891" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Teleport.mp3" name="DBZ - Teleport" downloadtype="progressive" subtype="soundeffect" duration="756" enable="Y" is_premium="N" aid="27892" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TeleportAlt.mp3" name="DBZ - Teleport alternate" downloadtype="progressive" subtype="soundeffect" duration="512" enable="Y" is_premium="N" aid="27893" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_AirRecover.mp3" name="DBZ - Air recover" downloadtype="progressive" subtype="soundeffect" duration="1203" enable="Y" is_premium="N" aid="27894" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_AuraFlux.mp3" name="DBZ - Aura fluxing" downloadtype="progressive" subtype="soundeffect" duration="4861" enable="Y" is_premium="N" aid="27895" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_AuraHuge.mp3" name="DBZ - Huge Aura" downloadtype="progressive" subtype="soundeffect" duration="4773" enable="Y" is_premium="N" aid="27896" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_AuraShort.mp3" name="DBZ - Short Aura" downloadtype="progressive" subtype="soundeffect" duration="2196" enable="Y" is_premium="N" aid="27897" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamChargeOrg.mp3" name="DBZ - Beam Charge Original" downloadtype="progressive" subtype="soundeffect" duration="2400" enable="Y" is_premium="N" aid="27898" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamFireOdd.mp3" name="DBZ - Beam Fire Odd" downloadtype="progressive" subtype="soundeffect" duration="2902" enable="Y" is_premium="N" aid="27899" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamHead.mp3" name="DBZ - Beamhead" downloadtype="progressive" subtype="soundeffect" duration="3228" enable="Y" is_premium="N" aid="27900" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamBigFire.mp3" name="DBZ - Beam fire big" downloadtype="progressive" subtype="soundeffect" duration="4391" enable="Y" is_premium="N" aid="27901" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BangBigFire.mp3" name="DBZ - Bang big fire" downloadtype="progressive" subtype="soundeffect" duration="3743" enable="Y" is_premium="N" aid="27902" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Blast.mp3" name="DBZ - Blast" downloadtype="progressive" subtype="soundeffect" duration="2092" enable="Y" is_premium="N" aid="27903" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BlitzCombo.mp3" name="DBZ - Blitz combo" downloadtype="progressive" subtype="soundeffect" duration="2144" enable="Y" is_premium="N" aid="27904" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BurningCharge.mp3" name="DBZ - Burning charge" downloadtype="progressive" subtype="soundeffect" duration="2637" enable="Y" is_premium="N" aid="27905" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BurningFire.mp3" name="DBZ - Burning fire" downloadtype="progressive" subtype="soundeffect" duration="813" enable="Y" is_premium="N" aid="27906" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BusterFire.mp3" name="DBZ - Buster fire" downloadtype="progressive" subtype="soundeffect" duration="7465" enable="Y" is_premium="N" aid="27907" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Dash.mp3" name="DBZ - Dash" downloadtype="progressive" subtype="soundeffect" duration="1861" enable="Y" is_premium="N" aid="27908" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Glowing.mp3" name="DBZ - Glowing" downloadtype="progressive" subtype="soundeffect" duration="3810" enable="Y" is_premium="N" aid="27909" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_DeathballCharge.mp3" name="DBZ - Deathball charge" downloadtype="progressive" subtype="soundeffect" duration="8297" enable="Y" is_premium="N" aid="27910" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_DeathballFire.mp3" name="DBZ - Deathball fire" downloadtype="progressive" subtype="soundeffect" duration="3438" enable="Y" is_premium="N" aid="27911" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_DiscFire.mp3" name="DBZ - Disc fire" downloadtype="progressive" subtype="soundeffect" duration="1194" enable="Y" is_premium="N" aid="27912" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Earthquake.mp3" name="DBZ - Earthquake" downloadtype="progressive" subtype="soundeffect" duration="9197" enable="Y" is_premium="N" aid="27913" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_EyebeamFire.mp3" name="DBZ - Eye Beam Fire" downloadtype="progressive" subtype="soundeffect" duration="766" enable="Y" is_premium="N" aid="27914" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_EvilPresence.mp3" name="DBZ - Evil Presence" downloadtype="progressive" subtype="soundeffect" duration="4600" enable="Y" is_premium="N" aid="27915" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_FinalflashCharge.mp3" name="DBZ - Finalflash charge" downloadtype="progressive" subtype="soundeffect" duration="4449" enable="Y" is_premium="N" aid="27916" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Fingerlaser.mp3" name="DBZ - Finger Laser" downloadtype="progressive" subtype="soundeffect" duration="1242" enable="Y" is_premium="N" aid="27917" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_FootHit.mp3" name="DBZ - Footstep hit" downloadtype="progressive" subtype="soundeffect" duration="226" enable="Y" is_premium="N" aid="27918" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_HardPunch.mp3" name="DBZ - Hard punch" downloadtype="progressive" subtype="soundeffect" duration="1435" enable="Y" is_premium="N" aid="27919" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KiBlast.mp3" name="DBZ - Ki blast" downloadtype="progressive" subtype="soundeffect" duration="1216" enable="Y" is_premium="N" aid="27920" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Lightning.mp3" name="DBZ - Lightning" downloadtype="progressive" subtype="soundeffect" duration="2499" enable="Y" is_premium="N" aid="27921" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MassiveExplosion1.mp3" name="DBZ - Massive Explosion" downloadtype="progressive" subtype="soundeffect" duration="8440" enable="Y" is_premium="N" aid="27922" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MassiveExplosion2.mp3" name="DBZ - Massive Explosion 2" downloadtype="progressive" subtype="soundeffect" duration="15597" enable="Y" is_premium="N" aid="27923" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MassiveExplosion3.mp3" name="DBZ - Massive Explosion 3" downloadtype="progressive" subtype="soundeffect" duration="6219" enable="Y" is_premium="N" aid="27924" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeMisses.mp3" name="DBZ - Melee misses" downloadtype="progressive" subtype="soundeffect" duration="1712" enable="Y" is_premium="N" aid="27925" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MeleeUpInit.mp3" name="DBZ - Melee up init" downloadtype="progressive" subtype="soundeffect" duration="2136" enable="Y" is_premium="N" aid="27926" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_MiscdiscCharge.mp3" name="DBZ - Miscellaneous disc charge" downloadtype="progressive" subtype="soundeffect" duration="5502" enable="Y" is_premium="N" aid="27927" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Powerdown.mp3" name="DBZ - Power down" downloadtype="progressive" subtype="soundeffect" duration="1217" enable="Y" is_premium="N" aid="27928" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Powerup.mp3" name="DBZ - Power up" downloadtype="progressive" subtype="soundeffect" duration="3355" enable="Y" is_premium="N" aid="27929" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Punch.mp3" name="DBZ - Punch" downloadtype="progressive" subtype="soundeffect" duration="694" enable="Y" is_premium="N" aid="27930" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_QuickDash.mp3" name="DBZ - Quick dash" downloadtype="progressive" subtype="soundeffect" duration="804" enable="Y" is_premium="N" aid="27931" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_ReflectDeflect.mp3" name="DBZ - Reflect deflect" downloadtype="progressive" subtype="soundeffect" duration="658" enable="Y" is_premium="N" aid="27932" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Punches.mp3" name="DBZ - Punches" downloadtype="progressive" subtype="soundeffect" duration="1296" enable="Y" is_premium="N" aid="27933" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Punches2.mp3" name="DBZ - Punches 2" downloadtype="progressive" subtype="soundeffect" duration="4721" enable="Y" is_premium="N" aid="27934" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Rumble.mp3" name="DBZ - Rumble" downloadtype="progressive" subtype="soundeffect" duration="5177" enable="Y" is_premium="N" aid="27935" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SbcCharge.mp3" name="DBZ - SBC Charge" downloadtype="progressive" subtype="soundeffect" duration="3888" enable="Y" is_premium="N" aid="27936" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SbcFire.mp3" name="DBZ - SBC Fire" downloadtype="progressive" subtype="soundeffect" duration="1094" enable="Y" is_premium="N" aid="27937" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_ScatterBeam.mp3" name="DBZ - Scatter beam fire" downloadtype="progressive" subtype="soundeffect" duration="2057" enable="Y" is_premium="N" aid="27938" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Scouter.mp3" name="DBZ - Scouter" downloadtype="progressive" subtype="soundeffect" duration="550" enable="Y" is_premium="N" aid="27939" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SensuBean.mp3" name="DBZ - Sensu bean" downloadtype="progressive" subtype="soundeffect" duration="3191" enable="Y" is_premium="N" aid="27940" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_EyeGlow.mp3" name="DBZ - Eye Glow" downloadtype="progressive" subtype="soundeffect" duration="4913" enable="Y" is_premium="N" aid="27941" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Slowmo.mp3" name="DBZ - Slow motion" downloadtype="progressive" subtype="soundeffect" duration="4550" enable="Y" is_premium="N" aid="27942" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Solarflare.mp3" name="DBZ - Solarflare" downloadtype="progressive" subtype="soundeffect" duration="1535" enable="Y" is_premium="N" aid="27943" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Spin.mp3" name="DBZ - Spin" downloadtype="progressive" subtype="soundeffect" duration="862" enable="Y" is_premium="N" aid="27944" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SpiritFire.mp3" name="DBZ - Spirit fire" downloadtype="progressive" subtype="soundeffect" duration="2218" enable="Y" is_premium="N" aid="27945" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SSJAura.mp3" name="DBZ - SSJ aura" downloadtype="progressive" subtype="soundeffect" duration="10978" enable="Y" is_premium="N" aid="27946" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TelekinesisCharge.mp3" name="DBZ - Telekinesis charge" downloadtype="progressive" subtype="soundeffect" duration="2668" enable="Y" is_premium="N" aid="27947" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TelekinesisFire.mp3" name="DBZ - Telekinesis fire" downloadtype="progressive" subtype="soundeffect" duration="847" enable="Y" is_premium="N" aid="27948" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Throw.mp3" name="DBZ - Throw" downloadtype="progressive" subtype="soundeffect" duration="801" enable="Y" is_premium="N" aid="27949" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Wallhit.mp3" name="DBZ - Wall hit" downloadtype="progressive" subtype="soundeffect" duration="3071" enable="Y" is_premium="N" aid="27950" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_WallJumps.mp3" name="DBZ - Wall jumps" downloadtype="progressive" subtype="soundeffect" duration="1000" enable="Y" is_premium="N" aid="27951" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_WeakKick.mp3" name="DBZ - Weak kick" downloadtype="progressive" subtype="soundeffect" duration="226" enable="Y" is_premium="N" aid="27952" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_WeakPunch.mp3" name="DBZ - Weak punch" downloadtype="progressive" subtype="soundeffect" duration="197" enable="Y" is_premium="N" aid="27953" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BeamHeadFull.mp3" name="DBZ - Beamhead full" downloadtype="progressive" subtype="soundeffect" duration="39066" enable="Y" is_premium="N" aid="27954" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BigExplosion.mp3" name="DBZ - Big Explosion" downloadtype="progressive" subtype="soundeffect" duration="16811" enable="Y" is_premium="N" aid="27955" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BigExplosion2.mp3" name="DBZ - Big Explosion 2" downloadtype="progressive" subtype="soundeffect" duration="16916" enable="Y" is_premium="N" aid="27956" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BlastSpam.mp3" name="DBZ - Blast spam" downloadtype="progressive" subtype="soundeffect" duration="8115" enable="Y" is_premium="N" aid="27957" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_BurstExplosion.mp3" name="DBZ - Burst explosion" downloadtype="progressive" subtype="soundeffect" duration="5016" enable="Y" is_premium="N" aid="27958" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_Crosspunch.mp3" name="DBZ - Cross punch" downloadtype="progressive" subtype="soundeffect" duration="608" enable="Y" is_premium="N" aid="27959" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_DeathRayCharge.mp3" name="DBZ - Death ray charge" downloadtype="progressive" subtype="soundeffect" duration="3988" enable="Y" is_premium="N" aid="27960" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_DeathRayChargeUltra.mp3" name="DBZ - Death ray charge ultimate" downloadtype="progressive" subtype="soundeffect" duration="3988" enable="Y" is_premium="N" aid="27961" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_FinalPunch.mp3" name="DBZ - Final punch" downloadtype="progressive" subtype="soundeffect" duration="2122" enable="Y" is_premium="N" aid="27962" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TeleportHigh.mp3" name="DBZ - Teleport high" downloadtype="progressive" subtype="soundeffect" duration="917" enable="Y" is_premium="N" aid="27963" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TeleportHighest.mp3" name="DBZ - Teleport highest" downloadtype="progressive" subtype="soundeffect" duration="1074" enable="Y" is_premium="N" aid="27964" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KameChargeLong.mp3" name="DBZ - Kamehameha charge long" downloadtype="progressive" subtype="soundeffect" duration="36548" enable="Y" is_premium="N" aid="27965" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_KameFireNew.mp3" name="DBZ - Kamehameha fire 2" downloadtype="progressive" subtype="soundeffect" duration="5867" enable="Y" is_premium="N" aid="27966" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_LightningLoud.mp3" name="DBZ - Lightning loud" downloadtype="progressive" subtype="soundeffect" duration="1937" enable="Y" is_premium="N" aid="27967" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_ExplosionBasic.mp3" name="DBZ - Basic explosion" downloadtype="progressive" subtype="soundeffect" duration="2629" enable="Y" is_premium="N" aid="27968" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_SoftPunch.mp3" name="DBZ - Soft punch" downloadtype="progressive" subtype="soundeffect" duration="323" enable="Y" is_premium="N" aid="27969" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_AuraPower2.mp3" name="DBZ - Aura SSJ2" downloadtype="progressive" subtype="soundeffect" duration="3736" enable="Y" is_premium="N" aid="27970" money="0" sharing="0"/>
+  <sound id="GoAni_ApplauseConcert.mp3" name="Applause concert" downloadtype="progressive" subtype="soundeffect" duration="11471" enable="Y" is_premium="N" aid="27971" money="0" sharing="0"/>
+  <sound id="GoAni_Aaah.mp3" name="Aaah" downloadtype="progressive" subtype="soundeffect" duration="2511" enable="Y" is_premium="N" aid="27972" money="0" sharing="0"/>
+  <sound id="GoAni_BloodPunch.mp3" name="Bloodly punch" downloadtype="progressive" subtype="soundeffect" duration="11471" enable="Y" is_premium="N" aid="27973" money="0" sharing="0"/>
+  <sound id="GoAni_ScratchDiscMinute.mp3" name="Disc scratch" downloadtype="progressive" subtype="soundeffect" duration="846" enable="Y" is_premium="N" aid="27974" money="0" sharing="0"/>
+  <sound id="GoAni_EpicFail.mp3" name="Epic fail" downloadtype="progressive" subtype="soundeffect" duration="2092" enable="Y" is_premium="N" aid="27975" money="0" sharing="0"/>
+  <sound id="GoAni_Nuke8.mp3" name="Nuke" downloadtype="progressive" subtype="soundeffect" duration="1780" enable="Y" is_premium="N" aid="27976" money="0" sharing="0"/>
+  <sound id="GoAni_Glassbreak.mp3" name="Glass break" downloadtype="progressive" subtype="soundeffect" duration="982" enable="Y" is_premium="N" aid="27977" money="0" sharing="0"/>
+  <sound id="GoAni_InteractiveBuddyPunch.mp3" name="Interactive Buddy punch" downloadtype="progressive" subtype="soundeffect" duration="231" enable="Y" is_premium="N" aid="27978" money="0" sharing="0"/>
+  <sound id="GoAni_MediumSlowPunch.mp3" name="Slow medium punch" downloadtype="progressive" subtype="soundeffect" duration="553" enable="Y" is_premium="N" aid="27979" money="0" sharing="0"/>
+  <sound id="GoAni_PotBreak.mp3" name="Pot break" downloadtype="progressive" subtype="soundeffect" duration="2163" enable="Y" is_premium="N" aid="27980" money="0" sharing="0"/>
+  <sound id="GoAni_ForcePunch.mp3" name="Force punch" downloadtype="progressive" subtype="soundeffect" duration="646" enable="Y" is_premium="N" aid="27981" money="0" sharing="0"/>
+  <sound id="GoAni_BonePunch.mp3" name="Bone punch" downloadtype="progressive" subtype="soundeffect" duration="876" enable="Y" is_premium="N" aid="27982" money="0" sharing="0"/>
+  <sound id="GoAni_ShoopDaWhoop.mp3" name="Shoop da whoop" downloadtype="progressive" subtype="soundeffect" duration="2512" enable="Y" is_premium="N" aid="27983" money="0" sharing="0"/>
+  <sound id="GoAni_ShoopDaWhoopBrah.mp3" name="Shoop da whoop brah" downloadtype="progressive" subtype="soundeffect" duration="886" enable="Y" is_premium="N" aid="27984" money="0" sharing="0"/>
+  <sound id="GoAni_Slurp.mp3" name="Slurp" downloadtype="progressive" subtype="soundeffect" duration="1610" enable="Y" is_premium="N" aid="27985" money="0" sharing="0"/>
+  <sound id="GoAni_PenisMusic.mp3" name="Penis music" downloadtype="progressive" subtype="soundeffect" duration="2537" enable="Y" is_premium="N" aid="27986" money="0" sharing="0"/>
+  <sound id="GoAni_meme_RightBack.mp3" name="Right back" downloadtype="progressive" subtype="soundeffect" duration="2515" enable="Y" is_premium="N" aid="27987" money="0" sharing="0"/>
+  <sound id="GoAni_meme_GoatScream.mp3" name="Goat scream" downloadtype="progressive" subtype="soundeffect" duration="1985" enable="Y" is_premium="N" aid="27988" money="0" sharing="0"/>
+  <sound id="GoAni_meme_ManScream.mp3" name="Man screaming" downloadtype="progressive" subtype="soundeffect" duration="10610" enable="Y" is_premium="N" aid="27989" money="0" sharing="0"/>
+  <sound id="GoAni_meme_ManDinoScream.mp3" name="Man dinosaur scream" downloadtype="progressive" subtype="soundeffect" duration="5022" enable="Y" is_premium="N" aid="27990" money="0" sharing="0"/>
+  <sound id="GoAni_meme_FBI.mp3" name="FBI open up" downloadtype="progressive" subtype="soundeffect" duration="1934" enable="Y" is_premium="N" aid="27991" money="0" sharing="0"/>
+  <sound id="GoAni_meme_SitcomLaugh.mp3" name="Sitcom laughter" downloadtype="progressive" subtype="soundeffect" duration="29205" enable="Y" is_premium="N" aid="27992" money="0" sharing="0"/>
+  <sound id="GoAni_meme_TheyAskYou.mp3" name="They ask you" downloadtype="progressive" subtype="soundeffect" duration="5983" enable="Y" is_premium="N" aid="27993" money="0" sharing="0"/>
+  <sound id="GoAni_meme_Heavenly.mp3" name="Heaven meme" downloadtype="progressive" subtype="soundeffect" duration="18568" enable="Y" is_premium="N" aid="27994" money="0" sharing="0"/>
+  <sound id="GoAni_meme_Confirmed.mp3" name="Illuminati confirmed" downloadtype="progressive" subtype="soundeffect" duration="14922" enable="Y" is_premium="N" aid="27995" money="0" sharing="0"/>
+  <sound id="GoAni_meme_AlwaysLying.mp3" name="You are always lying" downloadtype="progressive" subtype="soundeffect" duration="9627" enable="Y" is_premium="N" aid="27996" money="0" sharing="0"/>
+  <sound id="GoAni_meme_Crickets.mp3" name="Cricket awkward" downloadtype="progressive" subtype="soundeffect" duration="10045" enable="Y" is_premium="N" aid="27997" money="0" sharing="0"/>
+  <sound id="GoAni_meme_BNDScream.mp3" name="BND of Doom Scream" downloadtype="progressive" subtype="soundeffect" duration="4700" enable="Y" is_premium="N" aid="27998" money="0" sharing="0"/>
+  <sound id="GoAni_meme_BNDLogo.mp3" name="BND of Doom Logo" downloadtype="progressive" subtype="soundeffect" duration="9601" enable="Y" is_premium="N" aid="27999" money="0" sharing="0"/>
+  <sound id="GoAni_meme_JeffScream.mp3" name="Jeff the Killer" downloadtype="progressive" subtype="soundeffect" duration="15609" enable="Y" is_premium="N" aid="28000" money="0" sharing="0"/>
+  <sound id="GoAni_meme_KillMe.mp3" name="Do it kill me" downloadtype="progressive" subtype="soundeffect" duration="6366" enable="Y" is_premium="N" aid="28001" money="0" sharing="0"/>
+  <sound id="GoAni_meme_TooWeak.mp3" name="Im too weak dont kill me" downloadtype="progressive" subtype="soundeffect" duration="3907" enable="Y" is_premium="N" aid="28002" money="0" sharing="0"/>
+  <sound id="GoAni_meme_GameMad.mp3" name="Its only a game" downloadtype="progressive" subtype="soundeffect" duration="4365" enable="Y" is_premium="N" aid="28003" money="0" sharing="0"/>
+  <sound id="GoAni_meme_JumpDown.mp3" name="Jump the fuck down now" downloadtype="progressive" subtype="soundeffect" duration="4241" enable="Y" is_premium="N" aid="28004" money="0" sharing="0"/>
+  <sound id="GoAni_meme_Keemstar.mp3" name="Keemstar horse" downloadtype="progressive" subtype="soundeffect" duration="9345" enable="Y" is_premium="N" aid="28005" money="0" sharing="0"/>
+  <sound id="GoAni_meme_Oof.mp3" name="Oof" downloadtype="progressive" subtype="soundeffect" duration="377" enable="Y" is_premium="N" aid="28006" money="0" sharing="0"/>
+  <sound id="GoAni_meme_tyler1.mp3" name="Tyler1 screaming" downloadtype="progressive" subtype="soundeffect" duration="1993" enable="Y" is_premium="N" aid="28007" money="0" sharing="0"/>
+  <sound id="GoAni_CrashExplode.mp3" name="Thomas crash explosion" downloadtype="progressive" subtype="soundeffect" duration="10907" enable="Y" is_premium="N" aid="28008" money="0" sharing="0"/>
+  <sound id="GoAni_FireExplodeForm.mp3" name="Explosion fire form" downloadtype="progressive" subtype="soundeffect" duration="4403" enable="Y" is_premium="N" aid="28009" money="0" sharing="0"/>
+  <sound id="GoAni_ExplodeMeme.mp3" name="Explosion meme" downloadtype="progressive" subtype="soundeffect" duration="1579" enable="Y" is_premium="N" aid="28010" money="0" sharing="0"/>
+  <sound id="GoAni_2Epik4uMoves.mp3" name="2epik4u moves" downloadtype="progressive" subtype="soundeffect" duration="5356" enable="Y" is_premium="N" aid="28011" money="0" sharing="0"/>
+  <sound id="GoAni_ThunderRain.mp3" name="Thunder rain" downloadtype="progressive" subtype="soundeffect" duration="5088" enable="Y" is_premium="N" aid="28012" money="0" sharing="0"/>
+  <sound id="GoAni_FemurScream.mp3" name="Femur scream" downloadtype="progressive" subtype="soundeffect" duration="8315" enable="Y" is_premium="N" aid="28013" money="0" sharing="0"/>
+  <sound id="GoAni_AppearBox.mp3" name="Appear - Lightbulb" downloadtype="progressive" subtype="soundeffect" duration="3944" enable="Y" is_premium="N" aid="28014" money="0" sharing="0"/>
+  <sound id="GoAni_Jumpscare1.mp3" name="Jumpscare Grounded" downloadtype="progressive" subtype="soundeffect" duration="10300" enable="Y" is_premium="N" aid="28015" money="0" sharing="0"/>
+  <sound id="GoAni_HelpLoud.mp3" name="HELP MORE LOUDER" downloadtype="progressive" subtype="soundeffect" duration="9178" enable="Y" is_premium="N" aid="28016" money="0" sharing="0"/>
+  <sound id="GoAni_Porno.mp3" name="HEY EVERYBODY IM LOOKING AT GAY PORNO" downloadtype="progressive" subtype="soundeffect" duration="3802" enable="Y" is_premium="N" aid="28017" money="0" sharing="0"/>
+  <sound id="GoAni_Awimbawe.mp3" name="Awimbawe" downloadtype="progressive" subtype="soundeffect" duration="7138" enable="Y" is_premium="N" aid="28018" money="0" sharing="0"/>
+  <sound id="GoAni_Nokia.mp3" name="Nokia" downloadtype="progressive" subtype="soundeffect" duration="5172" enable="Y" is_premium="N" aid="28019" money="0" sharing="0"/>
+  <sound id="GoAni_NokiaHands.mp3" name="Nokia Hands" downloadtype="progressive" subtype="soundeffect" duration="3820" enable="Y" is_premium="N" aid="28020" money="0" sharing="0"/>
+  <sound id="GoAni_NotFunny.mp3" name="DK Not funny" downloadtype="progressive" subtype="soundeffect" duration="3764" enable="Y" is_premium="N" aid="28021" money="0" sharing="0"/>
+  <sound id="GoAni_Senukai.mp3" name="Granddaughters" downloadtype="progressive" subtype="soundeffect" duration="2469" enable="Y" is_premium="N" aid="28022" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_Now.mp3" name="Voices - Now" downloadtype="progressive" subtype="soundeffect" duration="51165" enable="Y" is_premium="N" aid="28023" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_DoItrn.mp3" name="Voices - Do it right now" downloadtype="progressive" subtype="soundeffect" duration="110338" enable="Y" is_premium="N" aid="28024" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_NWord.mp3" name="Voices - Fuck you nigger" downloadtype="progressive" subtype="soundeffect" duration="105981" enable="Y" is_premium="N" aid="28025" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_Oh.mp3" name="Voices - Oh oh oh" downloadtype="progressive" subtype="soundeffect" duration="321090" enable="Y" is_premium="N" aid="28026" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_ExcitedJulie.mp3" name="Excited Julie" downloadtype="progressive" subtype="soundeffect" duration="42051" enable="Y" is_premium="N" aid="28027" money="0" sharing="0"/>
+  <sound id="GoAni_Voices_DavidCry.mp3" name="David Voice Cry" downloadtype="progressive" subtype="soundeffect" duration="8064" enable="Y" is_premium="N" aid="28028" money="0" sharing="0"/>
+  <sound id="GoAni_RotatingGlassBreak.mp3" name="Glass break rotating" downloadtype="progressive" subtype="soundeffect" duration="2374" enable="Y" is_premium="N" aid="278029" money="0" sharing="0"/>
+  <sound id="GoAni_ExplodeRemote.mp3" name="Remotely Explode" downloadtype="progressive" subtype="soundeffect" duration="13177" enable="Y" is_premium="N" aid="28030" money="0" sharing="0"/>
+  <sound id="GoAni_Glassbreak2.mp3" name="Glass break 2" downloadtype="progressive" subtype="soundeffect" duration="1370" enable="Y" is_premium="N" aid="28031" money="0" sharing="0"/>
+  <sound id="GoAni_SlamHardly.mp3" name="Punch Slam hardly" downloadtype="progressive" subtype="soundeffect" duration="813" enable="Y" is_premium="N" aid="28032" money="0" sharing="0"/>
+  <sound id="GoAni_GroanJapan.mp3" name="Japan groaning" downloadtype="progressive" subtype="soundeffect" duration="1138" enable="Y" is_premium="N" aid="28033" money="0" sharing="0"/>
+  <sound id="GoAni_Gah.mp3" name="Male pain gah" downloadtype="progressive" subtype="soundeffect" duration="1091" enable="Y" is_premium="N" aid="28034" money="0" sharing="0"/>
+  <sound id="GoAni_BabyCryGaming.mp3" name="Baby Cry" downloadtype="progressive" subtype="soundeffect" duration="10152" enable="Y" is_premium="N" aid="28035" money="0" sharing="0"/>
+  <sound id="GoAni_ScaryWomanScream.mp3" name="Scary Woman Scream" downloadtype="progressive" subtype="soundeffect" duration="13732" enable="Y" is_premium="N" aid="28036" money="0" sharing="0"/>
+  <sound id="GoAni_CryPain.mp3" name="Cry of Pain" downloadtype="progressive" subtype="soundeffect" duration="16408" enable="Y" is_premium="N" aid="28037" money="0" sharing="0"/>
+  <sound id="GoAni_CryPain2.mp3" name="Cry of Pain 2" downloadtype="progressive" subtype="soundeffect" duration="8539" enable="Y" is_premium="N" aid="28038" money="0" sharing="0"/>
+  <sound id="GoAni_MaleCry.mp3" name="Male Crying" downloadtype="progressive" subtype="soundeffect" duration="8906" enable="Y" is_premium="N" aid="28039" money="0" sharing="0"/>
+  <sound id="GoAni_BlackCry.mp3" name="Black nigga crying" downloadtype="progressive" subtype="soundeffect" duration="9404" enable="Y" is_premium="N" aid="28040" money="0" sharing="0"/>
+  <sound id="GoAni_Triggered.mp3" name="Triggered" downloadtype="progressive" subtype="soundeffect" duration="9954" enable="Y" is_premium="N" aid="28041" money="0" sharing="0"/>
+  <sound id="GoAni_ExplodeMemeAlt.mp3" name="Explosion meme 2" downloadtype="progressive" subtype="soundeffect" duration="1426" enable="Y" is_premium="N" aid="28042" money="0" sharing="0"/>
+  <sound id="GoAni_Chewing.mp3" name="Chewing" downloadtype="progressive" subtype="soundeffect" duration="5807" enable="Y" is_premium="N" aid="28043" money="0" sharing="0"/>
+  <sound id="GoAni_Burp.mp3" name="Burp" downloadtype="progressive" subtype="soundeffect" duration="880" enable="Y" is_premium="N" aid="28044" money="0" sharing="0"/>
+  <sound id="GoAni_Burp2.mp3" name="Burp 2" downloadtype="progressive" subtype="soundeffect" duration="1331" enable="Y" is_premium="N" aid="28045" money="0" sharing="0"/>
+  <sound id="GoAni_EatingChips.mp3" name="Chewing potato chips" downloadtype="progressive" subtype="soundeffect" duration="5433" enable="Y" is_premium="N" aid="28046" money="0" sharing="0"/>
+  <sound id="GoAni_Glassbreak3.mp3" name="Glass break 3" downloadtype="progressive" subtype="soundeffect" duration="1474" enable="Y" is_premium="N" aid="28047" money="0" sharing="0"/>
+  <sound id="GoAni_ComputerBuzz.mp3" name="Computer buzzing - glitching" downloadtype="progressive" subtype="soundeffect" duration="9507" enable="Y" is_premium="N" aid="28048" money="0" sharing="0"/>
+  <sound id="GoAni_Drinking.mp3" name="Drinking" downloadtype="progressive" subtype="soundeffect" duration="5637" enable="Y" is_premium="N" aid="28049" money="0" sharing="0"/>
+  <sound id="GoAni_VinDiBona.mp3" name="Vin Di Bona productions logo" downloadtype="progressive" subtype="soundeffect" duration="3008" enable="Y" is_premium="N" aid="28050" money="0" sharing="0"/>
+  <sound id="GoAni_VinDiBona2008.mp3" name="Vin Di Bona productions logo 2008" downloadtype="progressive" subtype="soundeffect" duration="4029" enable="Y" is_premium="N" aid="28051" money="0" sharing="0"/>
+  <sound id="GoAni_Vomit.mp3" name="Vomit" downloadtype="progressive" subtype="soundeffect" duration="3379" enable="Y" is_premium="N" aid="28052" money="0" sharing="0"/>
+  <sound id="GoAni_Fart.mp3" name="Fart" downloadtype="progressive" subtype="soundeffect" duration="953" enable="Y" is_premium="N" aid="28053" money="0" sharing="0"/>
+  <sound id="GoAni_EricOldVoice.mp3" name="Eric old voice crying" downloadtype="progressive" subtype="soundeffect" duration="4188" enable="Y" is_premium="N" aid="28054" money="0" sharing="0"/>
+  <sound id="GoAni_EricOldestVoice.mp3" name="Eric oldest voice crying" downloadtype="progressive" subtype="soundeffect" duration="4393" enable="Y" is_premium="N" aid="28055" money="0" sharing="0"/>
+  <sound id="GoAni_AGK.mp3" name="AGK beating sound" downloadtype="progressive" subtype="soundeffect" duration="12292" enable="Y" is_premium="N" aid="28056" money="0" sharing="0"/>
+  <sound id="GoAni_VLScream.mp3" name="Very loud scream" downloadtype="progressive" subtype="soundeffect" duration="19371" enable="Y" is_premium="N" aid="28057" money="0" sharing="0"/>
+  <sound id="GoAni_VomitLoud.mp3" name="Barf" downloadtype="progressive" subtype="soundeffect" duration="1417" enable="Y" is_premium="N" aid="28058" money="0" sharing="0"/>
+  <sound id="GoAni_Ukraina.mp3" name="Crazy Ukrainian Kid" downloadtype="progressive" subtype="soundeffect" duration="6509" enable="Y" is_premium="N" aid="28059" money="0" sharing="0"/>
+  <sound id="GoAni_DBZ_TeleportOriginal.mp3" name="DBZ - Teleport original" downloadtype="progressive" subtype="soundeffect" duration="1099" enable="Y" is_premium="N" aid="28060" money="0" sharing="0"/>
   <sound id="122_short_dance_of_the_sugar_plum_fairy_0061.mp3" name="Dance of the Sugar Plum Fairy" downloadtype="progressive" subtype="bgmusic" duration="60473" enable="Y" is_premium="N" aid="28101" money="0" sharing="0">
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0019.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="18051" enable="Y" is_premium="N" aid="28102" money="0" sharing="0"/>
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0035.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="34560" enable="Y" is_premium="N" aid="28103" money="0" sharing="0"/>
