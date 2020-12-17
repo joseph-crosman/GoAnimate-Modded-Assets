@@ -1011,8 +1011,8 @@
 	<facial id="head_worried2" name="Worried good" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
-        <selection type="eye" state_id="surprised"/>
-        <selection type="eyebrow" state_id="surprised"/>
+        <selection type="eye" state_id="shock"/>
+        <selection type="eyebrow" state_id="happy"/>
         <selection type="facedecoration" state_id="default"/>
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
@@ -7362,6 +7362,12 @@
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="run"/>
             <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="run"/>
+        </action>
+		<action id="sprint" name="sprint" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="laugh"/>
             <selection type="upper_body" state_id="run"/>
         </action>
         <action id="movearms" name="Move arms 1" loop="Y" totalframe="1" enable="Y" category="dancing" is_motion="N">
@@ -15272,6 +15278,18 @@
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="run"/>
             <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="run"/>
+        </action>
+		<action id="sprint" name="Sprint" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="laugh"/>
+            <selection type="upper_body" state_id="run"/>
+        </action>
+		<action id="sprint2" name="Sprint look" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="laugh_point"/>
             <selection type="upper_body" state_id="run"/>
         </action>
         <action id="xarms2" name="Walk - Crossed Arms" loop="Y" totalframe="1" enable="Y" category="traveling" is_motion="Y">
