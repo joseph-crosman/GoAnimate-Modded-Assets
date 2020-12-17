@@ -17,13 +17,15 @@ body {
 }
 
 header {
-	height: 44px;
-	align-content: center;
-	background-color: #1e1e1e;
+	/* style */
+	background: linear-gradient(90deg, rgba(255,0,228,1) 0%, rgba(255,248,0,1) 100%);
 	color: #fff;
 	text-align: center;
-	display: inline-block;
-	width: 100%;
+	/* layout */
+	height: 44px;
+	padding: 0 15px;
+	display: flex;
+	justify-content: space-between;
 }
 
 #logo {
@@ -31,6 +33,20 @@ header {
 	margin-left: 10px;
 	margin-top: 4px;
 	height: 35px;
+	transition: 1s;
+}
+
+#logo:hover {
+	margin-top: 4px;
+	height: 35px;
+	filter: drop-shadow(0px 0px 5px gold);
+	transition: 1s;
+}
+#logo:active {
+	margin-top: 4px;
+	height: 35px;
+	filter: drop-shadow(0px 0px 5px cyan);
+	transition: 1s;
 }
 
 #headbuttons {
