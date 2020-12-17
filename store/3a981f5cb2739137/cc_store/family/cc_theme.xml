@@ -878,6 +878,32 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+	<facial id="head_shocked7" name="shocked yawn" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="shock"/>
+        <selection type="eyebrow" state_id="shock"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="yawn"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_shocked8" name="shocked after surprise" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="shock"/>
+        <selection type="eyebrow" state_id="shock"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="surprised"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
 	<facial id="head_shocked7" name="Laugh looking" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -982,6 +1008,19 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
+	<facial id="head_worried2" name="Worried good" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="surprised"/>
+        <selection type="eyebrow" state_id="surprised"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="sad"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
     <facial id="head_thinking" name="Thinking" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
@@ -992,6 +1031,71 @@
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
         <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_thinking2" name="Thinking happy" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="thinking"/>
+        <selection type="eyebrow" state_id="sad"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="happy"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_thinking3" name="Thinking before sick" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="thinking"/>
+        <selection type="eyebrow" state_id="sad"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="sick"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_thinking4" name="Scared" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="thinking"/>
+        <selection type="eyebrow" state_id="sad"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="sad"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_thinking5" name="Chewing after thinking" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="thinking"/>
+        <selection type="eyebrow" state_id="sad"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="chewing"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_thinking6" name="Thinking yawn" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="thinking"/>
+        <selection type="eyebrow" state_id="sad"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="yawn"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
@@ -1051,6 +1155,71 @@
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="asleep"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_asleep3" name="Asleep weak" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="sick"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_asleep5" name="Asleep weak 2" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="yawn"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_asleep6" name="Asleep angry" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="angry"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="default"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_asleep4" name="Asleep yawning" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="asleep"/>
+        <selection type="eyebrow" state_id="default"/>
+        <selection type="facedecoration" state_id="default"/>
+        <selection type="faceshape" state_id="default"/>
+        <selection type="glasses" state_id="default"/>
+        <selection type="hair" state_id="default"/>
+        <selection type="mouth" state_id="yawn"/>
+        <selection type="mustache" state_id="default"/>
+        <selection type="nose" state_id="default"/>
+    </facial>
+	<facial id="head_asleep7" name="Asleep looking" enable="Y">
+        <selection type="beard" state_id="default"/>
+        <selection type="ear" state_id="default"/>
+        <selection type="eye" state_id="schemeing"/>
         <selection type="eyebrow" state_id="default"/>
         <selection type="facedecoration" state_id="default"/>
         <selection type="faceshape" state_id="default"/>
@@ -1177,7 +1346,7 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
-	<facial id="head_adore" name="Adore" enable="Y">
+	<facial id="head_adore2" name="Adore laugh" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="sad"/>
@@ -1186,7 +1355,7 @@
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
-        <selection type="mouth" state_id="happy"/>
+        <selection type="mouth" state_id="laugh"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
@@ -1633,6 +1802,24 @@
             <selection type="skeleton" state_id="run"/>
             <selection type="upper_body" state_id="crossed_arms"/>
         </action>
+		<action id="run6" name="Run - chuckle" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="run7" name="Run - excited" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="run8" name="Run - fearful" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
         <action id="beingchased" name="Being chased" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="run"/>
@@ -1735,9 +1922,45 @@
             <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="lie_down"/>
         </action>
+		<action id="lie7" name="Lie down moon" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="lie4" name="Lie down moon 2" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="lie5" name="Lie down 5" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="lie6" name="Lie down 6" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
         <action id="lie3" name="Lie down - Legs up" loop="Y" totalframe="1" enable="Y" category="exercising" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="lie8" name="Lie down - Fall down" loop="Y" totalframe="1" enable="Y" category="exercising" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="lie9" name="Lie down - Lean" loop="Y" totalframe="1" enable="Y" category="exercising" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="lean"/>
             <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="lie_down"/>
         </action>
@@ -1836,6 +2059,24 @@
             <selection type="lower_body" state_id="walk"/>
             <selection type="skeleton" state_id="walk"/>
             <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
+		<action id="xarms4" name="Walk - Dance" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="walk"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="xarms5" name="Walk - Excited" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="walk"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="xarms6" name="Walk - Chuckle" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="walk"/>
+            <selection type="upper_body" state_id="chuckle"/>
         </action>
         <action id="dislike" name="Dislike" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_disgusted"/>
@@ -1939,6 +2180,24 @@
             <selection type="skeleton" state_id="sad"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
+		<action id="sad6" name="Sad legs fearful" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad7" name="Sad walking" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad8" name="Sad running" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
         <action id="scoldchild" name="Scold child" loop="Y" totalframe="80" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_angry"/>
             <selection type="lower_body" state_id="laugh"/>
@@ -1974,6 +2233,24 @@
             <selection type="lower_body" state_id="default"/>
             <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum2" name="Throw bigger tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="laugh"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum3" name="Throw MORE tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum4" name="Throw tantrum rolling" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="dance"/>
         </action>
         <action id="talk_phone" name="Talk on phone 1" loop="Y" totalframe="115" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
@@ -7453,6 +7730,12 @@
             <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="excited"/>
         </action>
+		<action id="throw_biggertantrum2" name="Throw MORE tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
         <action id="movelegs" name="Move legs 1" loop="Y" totalframe="60" enable="Y" category="dancing" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="dance"/>
@@ -7495,6 +7778,30 @@
             <selection type="skeleton" state_id="dance"/>
             <selection type="upper_body" state_id="dance"/>
         </action>
+		<action id="dance2" name="Dance - kneel down" loop="Y" totalframe="23" enable="Y" category="dancing" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance3" name="Dance - laughter" loop="Y" totalframe="23" enable="Y" category="dancing" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="laugh"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance4" name="Dance - sit" loop="Y" totalframe="23" enable="Y" category="dancing" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance5" name="Dance - excited" loop="Y" totalframe="23" enable="Y" category="dancing" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
         <action id="victory" name="Victory" loop="Y" totalframe="23" enable="Y" category="dancing" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="dance"/>
@@ -7502,8 +7809,20 @@
             <selection type="upper_body" state_id="crossed_arms"/>
         </action>
         <action id="fearful" name="Fearful" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
-            <selection type="facial" facial_id="head_sad"/>
+            <selection type="facial" facial_id="head_shocked"/>
             <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="fearful"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
+		<action id="fearful2" name="Fearful 2" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_shocked"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="fearful"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
+		<action id="fearful3" name="Fearful 3" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_shocked"/>
+            <selection type="lower_body" state_id="excited"/>
             <selection type="skeleton" state_id="fearful"/>
             <selection type="upper_body" state_id="fearful"/>
         </action>
@@ -11882,9 +12201,39 @@
             <selection type="skeleton" state_id="chuckle"/>
             <selection type="upper_body" state_id="chuckle"/>
         </action>
+		<action id="sitchuckle2" name="Kneel down - Chuckle" loop="Y" totalframe="6" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
         <action id="pt_at" name="Point at" loop="Y" totalframe="30" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="point_at"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+		<action id="pt_at2" name="Point at - kneel down" loop="Y" totalframe="30" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="point_at"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+		<action id="pt_at3" name="Point at - sit" loop="Y" totalframe="30" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="point_at"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+		<action id="pt_at4" name="Point at - excited" loop="Y" totalframe="30" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="point_at"/>
+            <selection type="upper_body" state_id="point_at"/>
+        </action>
+		<action id="pt_at5" name="Point at - dance" loop="Y" totalframe="30" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="dance"/>
             <selection type="skeleton" state_id="point_at"/>
             <selection type="upper_body" state_id="point_at"/>
         </action>
@@ -11894,9 +12243,45 @@
             <selection type="skeleton" state_id="laugh"/>
             <selection type="upper_body" state_id="laugh"/>
         </action>
+		<action id="laugh2" name="Laugh bigger" loop="Y" totalframe="8" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="laugh"/>
+            <selection type="upper_body" state_id="laugh"/>
+        </action>
         <action id="sad" name="Sad" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_sad"/>
             <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad2" name="Sad - kneel down" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad3" name="Sad - walk" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad4" name="Sad - run" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad5" name="Sad - legs" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad6" name="Sad - sit" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="sit"/>
             <selection type="skeleton" state_id="sad"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
@@ -11918,6 +12303,24 @@
             <selection type="skeleton" state_id="talk_on_phone"/>
             <selection type="upper_body" state_id="talk_on_phone"/>
         </action>
+		<action id="talk_phone4" name="Run - Talk on phone" loop="Y" totalframe="115" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="talk_phone5" name="Kneel down - Talk on phone" loop="Y" totalframe="115" enable="Y" category="traveling" is_motion="N">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="talk_phone6" name="Boots - Talk on phone" loop="Y" totalframe="115" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
         <action id="punch" name="Punch" loop="Y" totalframe="20" enable="Y" category="fighting" is_motion="N">
             <selection type="facial" facial_id="head_angry"/>
             <selection type="lower_body" state_id="default"/>
@@ -11930,11 +12333,65 @@
             <selection type="skeleton" state_id="dance"/>
             <selection type="upper_body" state_id="dance"/>
         </action>
+		<action id="dance2" name="Dance 2" loop="Y" totalframe="23" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance3" name="Dance 3" loop="Y" totalframe="23" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance4" name="Dance - kneel down" loop="Y" totalframe="23" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance5" name="Dance - sit" loop="Y" totalframe="23" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance6" name="Dance - walk" loop="Y" totalframe="23" enable="Y" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
+		<action id="dance7" name="Dance - run" loop="Y" totalframe="23" enable="Y" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="dance"/>
+            <selection type="upper_body" state_id="dance"/>
+        </action>
         <action id="fearful" name="Fearful" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
-            <selection type="facial" facial_id="head_sad"/>
+            <selection type="facial" facial_id="head_shocked"/>
             <selection type="lower_body" state_id="fearful"/>
             <selection type="skeleton" state_id="fearful"/>
             <selection type="upper_body" state_id="fearful"/>
+        </action>
+		<action id="throw_tantrum" name="Throw tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum2" name="Throw bigger tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum3" name="Throw MORE tantrum" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="dance"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
         </action>
         <action id="talk" name="Talk 1" loop="Y" totalframe="100" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
@@ -14805,6 +15262,12 @@
             <selection type="skeleton" state_id="run"/>
             <selection type="upper_body" state_id="run"/>
         </action>
+		<action id="drive" name="Drive" loop="Y" totalframe="24" enable="Y" category="traveling" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="sit"/>
+        </action>
         <action id="run" name="Run" loop="Y" totalframe="20" enable="Y" category="traveling" is_motion="Y">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="run"/>
@@ -14841,6 +15304,48 @@
             <selection type="skeleton" state_id="lie_down"/>
             <selection type="upper_body" state_id="lie_down"/>
         </action>
+		<action id="liedown4" name="Lie down 2" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="liedown5" name="Lie down 3" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="liedown6" name="Lie down 4" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="lie_down"/>
+        </action>
+		<action id="liedown2" name="Lie down - wake up" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="lie_down"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="liedown3" name="Lie down - thin" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
+		<action id="throw_tantrum" name="Throw tantrum" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="throw_tantrum2" name="Throw bigger tantrum" loop="Y" totalframe="50" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="excited"/>
+            <selection type="skeleton" state_id="lie_down"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
         <action id="kneeldown" name="Kneel down" loop="Y" totalframe="1" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
             <selection type="lower_body" state_id="kneel_down"/>
@@ -14871,21 +15376,81 @@
             <selection type="skeleton" state_id="crossed_arms"/>
             <selection type="upper_body" state_id="crossed_arms"/>
         </action>
+		<action id="xarms3" name="Run - Crossed Arms" loop="Y" totalframe="1" enable="Y" is_motion="Y">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="crossed_arms"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
+		<action id="xarms2" name="Kneel down - Crossed Arms" loop="Y" totalframe="1" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="crossed_arms"/>
+            <selection type="upper_body" state_id="crossed_arms"/>
+        </action>
         <action id="excited" name="Excited / Cheers" loop="Y" totalframe="100" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="excited"/>
             <selection type="skeleton" state_id="excited"/>
             <selection type="upper_body" state_id="excited"/>
         </action>
-        <action id="taunt" name="Taunt" loop="Y" totalframe="55" enable="Y" is_motion="N" category="emotion">
-            <selection type="facial" facial_id="head_taunt"/>
+		<action id="excited2" name="Excited / Cheers 2" loop="Y" totalframe="100" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
             <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="excited"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+        <action id="taunt" name="Taunt" loop="Y" totalframe="55" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_angry"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="taunt"/>
+            <selection type="upper_body" state_id="taunt"/>
+        </action>
+		<action id="taunt2" name="Taunt - sit" loop="Y" totalframe="55" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_angry"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="taunt"/>
+            <selection type="upper_body" state_id="taunt"/>
+        </action>
+		<action id="taunt3" name="Taunt - kneel down" loop="Y" totalframe="55" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_angry"/>
+            <selection type="lower_body" state_id="kneel_down"/>
             <selection type="skeleton" state_id="taunt"/>
             <selection type="upper_body" state_id="taunt"/>
         </action>
         <action id="chuckle" name="Chuckle" loop="Y" totalframe="6" enable="Y" is_motion="N" category="emotion">
             <selection type="facial" facial_id="head_laugh"/>
             <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="chuckle2" name="Chuckle - sit" loop="Y" totalframe="6" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="chuckle3" name="Chuckle - kneel down" loop="Y" totalframe="6" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="chuckle4" name="Chuckle - walk" loop="Y" totalframe="6" enable="Y" is_motion="Y" category="emotion">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="chuckle5" name="Chuckle - run" loop="Y" totalframe="6" enable="Y" is_motion="Y" category="emotion">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="chuckle"/>
+            <selection type="upper_body" state_id="chuckle"/>
+        </action>
+		<action id="chuckle6" name="Chuckle bigger" loop="Y" totalframe="6" enable="Y" is_motion="N" category="emotion">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="show_off"/>
             <selection type="skeleton" state_id="chuckle"/>
             <selection type="upper_body" state_id="chuckle"/>
         </action>
@@ -14907,9 +15472,75 @@
             <selection type="skeleton" state_id="sad"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
+		<action id="sad2" name="Sad legs still" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="default"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad3" name="Sad - kneel down" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad4" name="Sad - sit" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad5" name="Sad - walk" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
+		<action id="sad6" name="Sad - run" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_sad"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="sad"/>
+            <selection type="upper_body" state_id="sad"/>
+        </action>
         <action id="phone" name="On phone" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
             <selection type="facial" facial_id="head_talk_a"/>
             <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone" name="On phone" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone2" name="On phone - kneel down" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone3" name="On phone - sit" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone4" name="On phone - walk" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="Y">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone5" name="On phone - run" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="Y">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="talk_on_phone"/>
+            <selection type="upper_body" state_id="talk_on_phone"/>
+        </action>
+		<action id="phone6" name="On phone - show off" loop="Y" totalframe="100" enable="Y" category="talk" is_motion="N">
+            <selection type="facial" facial_id="head_talk_a"/>
+            <selection type="lower_body" state_id="show_off"/>
             <selection type="skeleton" state_id="talk_on_phone"/>
             <selection type="upper_body" state_id="talk_on_phone"/>
         </action>
@@ -14919,15 +15550,87 @@
             <selection type="skeleton" state_id="show_off"/>
             <selection type="upper_body" state_id="show_off"/>
         </action>
+		<action id="showoff2" name="Show off 2" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="show_off"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="excited"/>
+        </action>
+		<action id="showoff3" name="Show off - sit" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
+		<action id="showoff4" name="Show off - kneel down" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
+		<action id="showoff5" name="Show off - walk" loop="Y" totalframe="100" enable="Y" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
+		<action id="showoff6" name="Show off - run" loop="Y" totalframe="100" enable="Y" is_motion="Y">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
+		<action id="showoff7" name="Show off - thin feet" loop="Y" totalframe="100" enable="Y" is_motion="N">
+            <selection type="facial" facial_id="head_happy"/>
+            <selection type="lower_body" state_id="fearful"/>
+            <selection type="skeleton" state_id="show_off"/>
+            <selection type="upper_body" state_id="show_off"/>
+        </action>
         <action id="fearful" name="Fearful" loop="Y" totalframe="31" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_shocked"/>
             <selection type="lower_body" state_id="fearful"/>
             <selection type="skeleton" state_id="fearful"/>
             <selection type="upper_body" state_id="fearful"/>
         </action>
+		<action id="fearful2" name="Fearful - no thin" loop="Y" totalframe="31" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_shocked"/>
+            <selection type="lower_body" state_id="default"/>
+            <selection type="skeleton" state_id="fearful"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
+		<action id="fearful3" name="Fearful 2" loop="Y" totalframe="31" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_shocked"/>
+            <selection type="lower_body" state_id="show_off"/>
+            <selection type="skeleton" state_id="fearful"/>
+            <selection type="upper_body" state_id="fearful"/>
+        </action>
         <action id="laughat" name="Laugh at" loop="Y" totalframe="81" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_laugh"/>
             <selection type="lower_body" state_id="laugh_point"/>
+            <selection type="skeleton" state_id="laugh_point"/>
+            <selection type="upper_body" state_id="laugh_point"/>
+        </action>
+		<action id="laughat2" name="Laugh at - kneel down" loop="Y" totalframe="81" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="kneel_down"/>
+            <selection type="skeleton" state_id="laugh_point"/>
+            <selection type="upper_body" state_id="laugh_point"/>
+        </action>
+		<action id="laughat3" name="Laugh at - sit" loop="Y" totalframe="81" enable="Y" category="emotion" is_motion="N">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="sit"/>
+            <selection type="skeleton" state_id="laugh_point"/>
+            <selection type="upper_body" state_id="laugh_point"/>
+        </action>
+		<action id="laughat4" name="Laugh at - walk" loop="Y" totalframe="81" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="laugh_point"/>
+            <selection type="upper_body" state_id="laugh_point"/>
+        </action>
+		<action id="laughat5" name="Laugh at - run" loop="Y" totalframe="81" enable="Y" category="emotion" is_motion="Y">
+            <selection type="facial" facial_id="head_laugh"/>
+            <selection type="lower_body" state_id="run"/>
             <selection type="skeleton" state_id="laugh_point"/>
             <selection type="upper_body" state_id="laugh_point"/>
         </action>
@@ -21912,6 +22615,66 @@
         <state id="nothing" filename="nothing.swf"/>
     </component>
     <component type="facedecoration" id="lilycrying" path="lilycrying" name="lilycrying" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat" path="sagehat" name="sagehat" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_bananafire" path="sagehat_bananafire" name="sagehat_bananafire" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_blue" path="sagehat_blue" name="sagehat_blue" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_cyanred" path="sagehat_cyanred" name="sagehat_cyanred" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_desert" path="sagehat_desert" name="sagehat_desert" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_blue" path="sagehat_blue" name="sagehat_blue" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_grape" path="sagehat_grape" name="sagehat_grape" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_rainbow" path="sagehat_rainbow" name="sagehat_rainbow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="sagehat_taco" path="sagehat_taco" name="sagehat_taco" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="crown" path="crown" name="crown" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="diamondoutline" path="diamondoutline" name="diamondoutline" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="serverboost" path="serverboost" name="serverboost" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="serverboostmax" path="serverboostmax" name="serverboostmax" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="staffhammer" path="staffhammer" name="staffhammer" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+        <state id="nothing" filename="nothing.swf"/>
+    </component>
+	<component type="facedecoration" id="tnt" path="tnt" name="tnt" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
         <state id="nothing" filename="nothing.swf"/>
     </component>
