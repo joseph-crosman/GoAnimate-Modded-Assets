@@ -647,7 +647,7 @@
 	<facial id="head_angry9" name="Anger shocking" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
-        <selection type="eye" state_id="angry"/>
+        <selection type="eye" state_id="shock"/>
         <selection type="eyebrow" state_id="angry"/>
         <selection type="facedecoration" state_id="default"/>
         <selection type="faceshape" state_id="default"/>
