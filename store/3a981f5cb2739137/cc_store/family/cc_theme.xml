@@ -1141,7 +1141,7 @@
 	<facial id="head_lookdown" name="Look down - 3.0 eyes only" enable="Y">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="default"/>
-        <selection type="eye" state_id="look_down"/>
+        <selection type="eye" state_id="nothing"/>
         <selection type="eyebrow" state_id="default"/>
         <selection type="facedecoration" state_id="default"/>
         <selection type="faceshape" state_id="default"/>
