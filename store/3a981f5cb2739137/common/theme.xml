@@ -19793,6 +19793,213 @@
   <sound id="GoAni_new_cousin.mp3" name="Cousin" downloadtype="progressive" subtype="bgmusic" duration="4037" enable="Y" is_premium="N" aid="24553" money="0" sharing="0">
     <tag>new</tag>
   </sound>
+  <sound id="GoAni_new_virt_MarioKart.mp3" name="Super Mario Kart Main Menu" downloadtype="progressive" subtype="bgmusic" duration="20584" enable="Y" is_premium="N" aid="70000" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_capcom.mp3" name="Capcom" downloadtype="progressive" subtype="bgmusic" duration="10419" enable="Y" is_premium="N" aid="70001" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMWMM.mp3" name="Super Mario World Title Screen" downloadtype="progressive" subtype="bgmusic" duration="43574" enable="Y" is_premium="N" aid="70002" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SanctuaryGuardian.mp3" name="Earthbound - Sanctuary Guardian (midi)" downloadtype="progressive" subtype="bgmusic" duration="243068" enable="Y" is_premium="N" aid="70003" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Birthday.mp3" name="Birthday (remastered)" downloadtype="progressive" subtype="bgmusic" duration="20328" enable="Y" is_premium="N" aid="70004" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Blues.mp3" name="Blues (remastered)" downloadtype="progressive" subtype="bgmusic" duration="28843" enable="Y" is_premium="N" aid="70005" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Classica.mp3" name="Classica (remastered)" downloadtype="progressive" subtype="bgmusic" duration="28606" enable="Y" is_premium="N" aid="70006" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Dance.mp3" name="Dance (remastered)" downloadtype="progressive" subtype="bgmusic" duration="29518" enable="Y" is_premium="N" aid="70007" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Disco.mp3" name="Disco (remastered)" downloadtype="progressive" subtype="bgmusic" duration="35844" enable="Y" is_premium="N" aid="70008" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Folk.mp3" name="Folk (remastered)" downloadtype="progressive" subtype="bgmusic" duration="29786" enable="Y" is_premium="N" aid="70009" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Havanagi.mp3" name="Havanagi (remastered)" downloadtype="progressive" subtype="bgmusic" duration="48953" enable="Y" is_premium="N" aid="70010" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Hiphop.mp3" name="Hip Hop (remastered)" downloadtype="progressive" subtype="bgmusic" duration="41873" enable="Y" is_premium="N" aid="70011" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Jazz.mp3" name="Jazz (remastered)" downloadtype="progressive" subtype="bgmusic" duration="21663" enable="Y" is_premium="N" aid="70012" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_JingleBells.mp3" name="Jingle Bells (remastered)" downloadtype="progressive" subtype="bgmusic" duration="36357" enable="Y" is_premium="N" aid="70013" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Latin.mp3" name="Latin (remastered)" downloadtype="progressive" subtype="bgmusic" duration="25780" enable="Y" is_premium="N" aid="70014" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Pomp.mp3" name="Pomp (remastered)" downloadtype="progressive" subtype="bgmusic" duration="55737" enable="Y" is_premium="N" aid="70015" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Lullaby.mp3" name="Lullaby (remastered)" downloadtype="progressive" subtype="bgmusic" duration="24819" enable="Y" is_premium="N" aid="70016" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Reggae.mp3" name="Reggae (remastered)" downloadtype="progressive" subtype="bgmusic" duration="48401" enable="Y" is_premium="N" aid="70017" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Rock.mp3" name="Rock (remastered)" downloadtype="progressive" subtype="bgmusic" duration="38671" enable="Y" is_premium="N" aid="70018" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Techno.mp3" name="Techno (remastered)" downloadtype="progressive" subtype="bgmusic" duration="39696" enable="Y" is_premium="N" aid="70019" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Wedding.mp3" name="Wedding (remastered)" downloadtype="progressive" subtype="bgmusic" duration="17197" enable="Y" is_premium="N" aid="70020" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Auldlang.mp3" name="Auldlang (remastered)" downloadtype="progressive" subtype="bgmusic" duration="37327" enable="Y" is_premium="N" aid="70021" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_FruitDance.mp3" name="Bejeweled Twist Fruit Dance (midi)" downloadtype="progressive" subtype="bgmusic" duration="23412" enable="Y" is_premium="N" aid="70022" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Piano.mp3" name="Piano" downloadtype="progressive" subtype="bgmusic" duration="46734" enable="Y" is_premium="N" aid="70023" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_BejButterfly.mp3" name="Bejeweled 3 - Butterfly" downloadtype="progressive" subtype="bgmusic" duration="253426" enable="Y" is_premium="N" aid="70024" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_N600Rock.mp3" name="Rock - Samsung SGH-N600" downloadtype="progressive" subtype="bgmusic" duration="5603" enable="Y" is_premium="N" aid="70025" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_N600Happy.mp3" name="Happy - Samsung SGH-N600" downloadtype="progressive" subtype="bgmusic" duration="6863" enable="Y" is_premium="N" aid="70026" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SamsungClap.mp3" name="Samsung SGH Clap" downloadtype="progressive" subtype="bgmusic" duration="3921" enable="Y" is_premium="N" aid="70027" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SamsungDrum.mp3" name="Samsung SGH Drumkit" downloadtype="progressive" subtype="bgmusic" duration="4079" enable="Y" is_premium="N" aid="70028" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SambaParty.mp3" name="Samba Party - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="36249" enable="Y" is_premium="N" aid="70029" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SamsungRainAlarm.mp3" name="Alarm2 - Samsung alarm (rem)" downloadtype="progressive" subtype="bgmusic" duration="17026" enable="Y" is_premium="N" aid="70030" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_ViloinSonataNo.mp3" name="Violin Sonata NO - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="47162" enable="Y" is_premium="N" aid="70031" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_RaindropPrelude.mp3" name="Raindrop Prelude - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="44324" enable="Y" is_premium="N" aid="70032" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Alarm3.mp3" name="Alarm3 - Samsung alarm" downloadtype="progressive" subtype="bgmusic" duration="5985" enable="Y" is_premium="N" aid="70033" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Alarm4.mp3" name="Alarm5 - Samsung alarm" downloadtype="progressive" subtype="bgmusic" duration="3420" enable="Y" is_premium="N" aid="70034" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_CatDance.mp3" name="Cat Dance - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="40572" enable="Y" is_premium="N" aid="70035" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_vzw.mp3" name="VZW default tone" downloadtype="progressive" subtype="bgmusic" duration="5828" enable="Y" is_premium="N" aid="70036" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_aclassical6.mp3" name="Aclassical06 - MediaTek" downloadtype="progressive" subtype="bgmusic" duration="26157" enable="Y" is_premium="N" aid="70037" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SamsungBossa.mp3" name="Bossa - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="6549" enable="Y" is_premium="N" aid="70038" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_E1100Tune.mp3" name="Samsung E1100 Tune" downloadtype="progressive" subtype="bgmusic" duration="10146" enable="Y" is_premium="N" aid="70039" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Movistar.mp3" name="Movistar ringtone" downloadtype="progressive" subtype="bgmusic" duration="56418" enable="Y" is_premium="N" aid="70040" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_Dancing.mp3" name="Dancing - Samsung ringtone" downloadtype="progressive" subtype="bgmusic" duration="25108" enable="Y" is_premium="N" aid="70041" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GGoAni_new_virt_classics_CingularTune.mp3" name="Cingular tune" downloadtype="progressive" subtype="bgmusic" duration="6863" enable="Y" is_premium="N" aid="70042" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_classics_SamsungTune16.mp3" name="Samsung tune (fluid synth)" downloadtype="progressive" subtype="bgmusic" duration="19112" enable="Y" is_premium="N" aid="70043" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SonicBoom.mp3" name="Sonic CD - Sonic Boom" downloadtype="progressive" subtype="bgmusic" duration="134745" enable="Y" is_premium="N" aid="70044" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_CollisionChaosPr.mp3" name="Sonic CD - Collision Chaos Present" downloadtype="progressive" subtype="bgmusic" duration="116437" enable="Y" is_premium="N" aid="70045" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_ForestMaze.mp3" name="Super Mario RPG - Forest Maze" downloadtype="progressive" subtype="bgmusic" duration="155383" enable="Y" is_premium="N" aid="70046" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_ForestMazeCaveRemix.mp3" name="Forest Maze - Cave remix" downloadtype="progressive" subtype="bgmusic" duration="217372" enable="Y" is_premium="N" aid="70047" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMB2select.mp3" name="SMB2 - Character select" downloadtype="progressive" subtype="bgmusic" duration="102940" enable="Y" is_premium="N" aid="70048" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBunderwater.mp3" name="SMB - underwater" downloadtype="progressive" subtype="bgmusic" duration="53055" enable="Y" is_premium="N" aid="70049" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBunderwaterremix.mp3" name="SMB - underwater remix" downloadtype="progressive" subtype="bgmusic" duration="58535" enable="Y" is_premium="N" aid="70050" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBunderground.mp3" name="SMB - underground" downloadtype="progressive" subtype="bgmusic" duration="12205" enable="Y" is_premium="N" aid="70051" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBstarmanremix.mp3" name="SMB - starman remix" downloadtype="progressive" subtype="bgmusic" duration="41366" enable="Y" is_premium="N" aid="70052" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBoverworld.mp3" name="SMB - overworld" downloadtype="progressive" subtype="bgmusic" duration="125337" enable="Y" is_premium="N" aid="70053" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SMBoverworldtechremix.mp3" name="SMB - overworld techno remix" downloadtype="progressive" subtype="bgmusic" duration="103094" enable="Y" is_premium="N" aid="70054" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_FlashmanRemix.mp3" name="Flashman remix" downloadtype="progressive" subtype="bgmusic" duration="129823" enable="Y" is_premium="N" aid="70055" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_FlashmanRemix2.mp3" name="Mega Man 2 - Flashman" downloadtype="progressive" subtype="bgmusic" duration="124537" enable="Y" is_premium="N" aid="70056" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_MHZ.mp3" name="Mushroom Hill Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="119993" enable="Y" is_premium="N" aid="70057" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_StarlightZone.mp3" name="Starlight Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="132067" enable="Y" is_premium="N" aid="70058" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_LabyrinthZoneSynth.mp3" name="Labyrinth Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="111108" enable="Y" is_premium="N" aid="70059" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_GHZ.mp3" name="Green Hill Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="136746" enable="Y" is_premium="N" aid="70060" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_LFZ.mp3" name="Leaf Forest Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="330410" enable="Y" is_premium="N" aid="70061" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_HCZ.mp3" name="Hot Crater Zone (midi)" downloadtype="progressive" subtype="bgmusic" duration="154130" enable="Y" is_premium="N" aid="70062" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_SonicAdvanceSelect.mp3" name="Sonic Advance - Select a character" downloadtype="progressive" subtype="bgmusic" duration="33178" enable="Y" is_premium="N" aid="70063" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_BirabutoRemix.mp3" name="Birabuto overworld remix" downloadtype="progressive" subtype="bgmusic" duration="202767" enable="Y" is_premium="N" aid="70064" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_RuinsRemix.mp3" name="Ruins remix" downloadtype="progressive" subtype="bgmusic" duration="157324" enable="Y" is_premium="N" aid="70065" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_Birabuto.mp3" name="Birabuto" downloadtype="progressive" subtype="bgmusic" duration="51860" enable="Y" is_premium="N" aid="70066" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_Ruins.mp3" name="Ruins" downloadtype="progressive" subtype="bgmusic" duration="133125" enable="Y" is_premium="N" aid="70067" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
+  <sound id="GoAni_new_virt_YCDA.mp3" name="You can do anything" downloadtype="progressive" subtype="bgmusic" duration="132680" enable="Y" is_premium="N" aid="70068" money="0" sharing="0">
+    <tag>new</tag>
+  </sound>
   <sound id="spread_your_wings.mp3" name="Spread your wings" downloadtype="progressive" subtype="bgmusic" duration="142864" enable="Y" is_premium="N" aid="26260" money="0" sharing="0"/>
   <sound id="epic_hollywood_trailer.mp3" name="Epic Hollywood trailer" downloadtype="progressive" subtype="bgmusic" duration="91611" enable="Y" is_premium="N" aid="26261" money="0" sharing="0"/>
   <sound id="clap_tap.mp3" name="Clap tap" downloadtype="progressive" subtype="bgmusic" duration="101094" enable="Y" is_premium="N" aid="26262" money="0" sharing="0"/>
@@ -20391,6 +20598,52 @@
   <sound id="GoAni_new_flash_LLNS_thunderQ.mp3" name="LLNS - quiet thunder" downloadtype="progressive" subtype="soundeffect" duration="4377" enable="Y" is_premium="N" aid="50150" money="0" sharing="0"/>
   <sound id="GoAni_new_flash_LLNS_win.mp3" name="LLNS - win" downloadtype="progressive" subtype="soundeffect" duration="8086" enable="Y" is_premium="N" aid="50151" money="0" sharing="0"/>
   <sound id="GoAni_new_flash_LLNS_portalWarp.mp3" name="LLNS - portal warp" downloadtype="progressive" subtype="soundeffect" duration="5186" enable="Y" is_premium="N" aid="50152" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_C300Startup.mp3" name="Samsung SGH-C300 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="7162" enable="Y" is_premium="N" aid="50153" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_C300Shutdown.mp3" name="Samsung SGH-C300 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="7722" enable="Y" is_premium="N" aid="50154" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_A800Shutdown.mp3" name="Samsung SGH-A800 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="7606" enable="Y" is_premium="N" aid="50155" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_A800Startup.mp3" name="Samsung SGH-A800 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="7648" enable="Y" is_premium="N" aid="50156" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E100Shutdown.mp3" name="Samsung SGH-E100 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="7606" enable="Y" is_premium="N" aid="50157" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E100Startup.mp3" name="Samsung SGH-E100 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="6166" enable="Y" is_premium="N" aid="50158" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungEchoHappy.mp3" name="Samsung Movie - Happy echo" downloadtype="progressive" subtype="soundeffect" duration="5984" enable="Y" is_premium="N" aid="50159" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungMovieBells.mp3" name="Samsung Movie - Bells" downloadtype="progressive" subtype="soundeffect" duration="4436" enable="Y" is_premium="N" aid="50160" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungMovieOk.mp3" name="Samsung Movie - OK" downloadtype="progressive" subtype="soundeffect" duration="3982" enable="Y" is_premium="N" aid="50161" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungMovieMusicBox.mp3" name="Samsung Movie - Music Box" downloadtype="progressive" subtype="soundeffect" duration="5135" enable="Y" is_premium="N" aid="50162" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungMovieHopeCreate.mp3" name="Samsung Movie - Created" downloadtype="progressive" subtype="soundeffect" duration="5484" enable="Y" is_premium="N" aid="50163" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungSMS.mp3" name="Samsung SMS" downloadtype="progressive" subtype="soundeffect" duration="3652" enable="Y" is_premium="N" aid="50164" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E100ShutdownHappy.mp3" name="Samsung SGH-E100 shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="3965" enable="Y" is_premium="N" aid="50165" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E100StartupHappy.mp3" name="Samsung SGH-E100 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="6852" enable="Y" is_premium="N" aid="50166" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_X830LowBattery.mp3" name="Samsung SGH-X830 Low battery (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="2602" enable="Y" is_premium="N" aid="50167" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_X830ShutdownFuture.mp3" name="Samsung SGH-X830 Shutdown future (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="5426" enable="Y" is_premium="N" aid="50168" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_X830StartupFuture.mp3" name="Samsung SGH-X830 Startup future (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="5534" enable="Y" is_premium="N" aid="50169" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_X830ShutdownClassic.mp3" name="Samsung SGH-X830 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="6596" enable="Y" is_premium="N" aid="50170" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_X830StartupClassic.mp3" name="Samsung SGH-X830 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="5355" enable="Y" is_premium="N" aid="50171" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_C160Startup.mp3" name="Samsung SGH-C160 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="4634" enable="Y" is_premium="N" aid="50172" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_C160Shutdown.mp3" name="Samsung SGH-C160 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="4954" enable="Y" is_premium="N" aid="50173" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_C160LowBattery.mp3" name="Samsung SGH-C160 Low battery (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="2172" enable="Y" is_premium="N" aid="50174" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungSeriesNotif.mp3" name="Samsung E1100 - Notification" downloadtype="progressive" subtype="soundeffect" duration="2740" enable="Y" is_premium="N" aid="50175" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungNotifInfo.mp3" name="Samsung E1100 - Information" downloadtype="progressive" subtype="soundeffect" duration="2044" enable="Y" is_premium="N" aid="50176" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungSeriesShutdown.mp3" name="Samsung E1100 - Shutdown" downloadtype="progressive" subtype="soundeffect" duration="4794" enable="Y" is_premium="N" aid="50177" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungSeriesStartup.mp3" name="Samsung E1100 - Startup" downloadtype="progressive" subtype="soundeffect" duration="5204" enable="Y" is_premium="N" aid="50178" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_SamsungSeriesWarning.mp3" name="Samsung E1100 - Warning" downloadtype="progressive" subtype="soundeffect" duration="2116" enable="Y" is_premium="N" aid="50179" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E420Shutdown.mp3" name="Samsung SGH-E420 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="4929" enable="Y" is_premium="N" aid="50180" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_E420Startup.mp3" name="Samsung SGH-E420 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="4625" enable="Y" is_premium="N" aid="50181" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_D820Shutdown.mp3" name="Samsung SGH-D820 Shutdown (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="4140" enable="Y" is_premium="N" aid="50182" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_D820Startup.mp3" name="Samsung SGH-D820 Startup (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="3480" enable="Y" is_premium="N" aid="50183" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_D900LowBattery.mp3" name="Samsung SGH-D900 Low battery (fluidsynth)" downloadtype="progressive" subtype="soundeffect" duration="3651" enable="Y" is_premium="N" aid="50184" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_MediatekStartup.mp3" name="MediaTek sounds - startup" downloadtype="progressive" subtype="soundeffect" duration="7367" enable="Y" is_premium="N" aid="50185" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_MediatekShutdown.mp3" name="MediaTek sounds - shutdown" downloadtype="progressive" subtype="soundeffect" duration="7013" enable="Y" is_premium="N" aid="50186" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_MediatekTangoStartup.mp3" name="MediaTek sounds - startup 2 tango" downloadtype="progressive" subtype="soundeffect" duration="6065" enable="Y" is_premium="N" aid="50187" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_classics_MediatekTangoShutdown.mp3" name="MediaTek sounds - shutdown 2 tango" downloadtype="progressive" subtype="soundeffect" duration="4766" enable="Y" is_premium="N" aid="50188" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SMBdie.mp3" name="SMB - Death" downloadtype="progressive" subtype="soundeffect" duration="4472" enable="Y" is_premium="N" aid="50189" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SMB2gameover.mp3" name="SMB2 - Game over" downloadtype="progressive" subtype="soundeffect" duration="2204" enable="Y" is_premium="N" aid="50190" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SMBgameover.mp3" name="SMB - Game over" downloadtype="progressive" subtype="soundeffect" duration="5637" enable="Y" is_premium="N" aid="50191" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_STHT.mp3" name="Sonic the Hedgehog - Title" downloadtype="progressive" subtype="soundeffect" duration="9683" enable="Y" is_premium="N" aid="50192" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SunshineTooBad.mp3" name="Super Mario Sunshine - Too bad" downloadtype="progressive" subtype="soundeffect" duration="6256" enable="Y" is_premium="N" aid="50193" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SonicAdvanceComplete.mp3" name="Sonic Advance - act complete" downloadtype="progressive" subtype="soundeffect" duration="5499" enable="Y" is_premium="N" aid="50194" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SonicAdvanceTitle.mp3" name="Sonic Advance - Title screen" downloadtype="progressive" subtype="soundeffect" duration="9089" enable="Y" is_premium="N" aid="50195" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SMLgameover.mp3" name="Super Mario Land - Game over" downloadtype="progressive" subtype="soundeffect" duration="6263" enable="Y" is_premium="N" aid="50196" money="0" sharing="0"/>
+  <sound id="GoAni_new_virt_SMLclear.mp3" name="Super Mario Land - Course clear" downloadtype="progressive" subtype="soundeffect" duration="3595" enable="Y" is_premium="N" aid="50197" money="0" sharing="0"/>
+  <sound id="GoAni_new_HotelMarioLife.mp3" name="Hotel Mario - Lost a life" downloadtype="progressive" subtype="soundeffect" duration="3758" enable="Y" is_premium="N" aid="50198" money="0" sharing="0"/>
   <sound id="122_short_dance_of_the_sugar_plum_fairy_0061.mp3" name="Dance of the Sugar Plum Fairy" downloadtype="progressive" subtype="bgmusic" duration="60473" enable="Y" is_premium="N" aid="28101" money="0" sharing="0">
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0019.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="18051" enable="Y" is_premium="N" aid="28102" money="0" sharing="0"/>
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0035.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="34560" enable="Y" is_premium="N" aid="28103" money="0" sharing="0"/>
