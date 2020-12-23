@@ -15702,8 +15702,6 @@
   <prop id="dbz_fingerhit.swf" name="DBZ - Finger attack" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="50123" money="0" sharing="0"/>
   <prop id="dbz_spinattack.swf" name="DBZ - Spin attack" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5024" money="0" sharing="0"/>
   <prop id="xilam.swf" name="Xilam logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5025" money="0" sharing="0"/>
-  <prop id="firey.swf" name="Firey" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5026" money="0" sharing="0"/>
-  <prop id="microwavexp.swf" name="Microwave XP" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5027" money="0" sharing="0"/>
   <prop id="wingeria_sunset.swf" name="Wingeria - Sunset wave" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5028" money="0" sharing="0"/>
   <prop id="wingeria_pineapplesauce.swf" name="Wingeria - Pineapple sauce" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5029" money="0" sharing="0"/>
   <prop id="wingeria_flower.swf" name="Wingeria - Flower dirt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5030" money="0" sharing="0"/>
@@ -15801,26 +15799,13 @@
   <prop id="GatyScream.swf" name="Gaty scream" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5122" money="0" sharing="0"/>
   <prop id="Laisvas.swf" name="LNK" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5123" money="0" sharing="0"/>
   <prop id="LRT.swf" name="LRT" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5124" money="0" sharing="0"/>
-  <prop id="Animator.swf" name="YTPMV animator" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5125" money="0" sharing="0"/>
   <prop id="BTV.swf" name="BTV" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5126" money="0" sharing="0"/>
-  <prop id="Rickroller.swf" name="Rick roll" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5127" money="0" sharing="0"/>
-  <prop id="Kivaa.swf" name="Kivaa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5128" money="0" sharing="0"/>
-  <prop id="Deladoj.swf" name="Deladoj" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5129" money="0" sharing="0"/>
-  <prop id="Kawii.swf" name="Kawii" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5130" money="0" sharing="0"/>
-  <prop id="PickleSlide.swf" name="Pickle slide" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5131" money="0" sharing="0"/>
-  <prop id="WaffleDuck.swf" name="Waffle duck" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5132" money="0" sharing="0"/>
   <prop id="goani_sgh.swf" name="SGH" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5133" money="0" sharing="0"/>
-  <prop id="DellMacy.swf" name="Dell macy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5134" money="0" sharing="0"/>
   <prop id="HillaryCry.swf" name="Hillary cry" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5135" money="0" sharing="0"/>
-  <prop id="WindowsHomeX.swf" name="Windows XP Home" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5136" money="0" sharing="0"/>
   <prop id="WindowsRG.swf" name="Windows RG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5137" money="0" sharing="0"/>
   <prop id="XilamOggy.swf" name="Oggy TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5138" money="0" sharing="0"/>
-  <prop id="BowserGirls.swf" name="Bowser sexy" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5139" money="0" sharing="0"/>
-  <prop id="Wry.swf" name="WRY" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5140" money="0" sharing="0"/>
-  <prop id="MVM.swf" name="Mario Vs Mario" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5141" money="0" sharing="0"/>
   <prop id="youare.swf" name="You are an idiot" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5142" money="0" sharing="0"/>
   <prop id="directtv.swf" name="Direct television" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5143" money="0" sharing="0"/>
-  <prop id="6_trick_pony_by_gonein10seconds_d64291j.swf" name="6 trick pony" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5144" money="0" sharing="0"/>
   <prop id="goani_orangecar.swf" name="Daisy car" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5145" money="0" sharing="0"/>
   <prop id="goani_redcar.swf" name="Red car" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5146" money="0" sharing="0"/>
   <prop id="goani_doralogo.swf" name="Dora the Explorer logo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5147" money="0" sharing="0"/>
