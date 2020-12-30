@@ -16766,6 +16766,120 @@
   <prop id="goani_new_flash_gsmart_kangaruby.swf" name="Kanga Ruby" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6115" money="0" sharing="0"/>
   <prop id="goani_new_flash_gsmart_wistiaerror.swf" name="Wistia Error" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6116" money="0" sharing="0"/>
   <prop id="goani_new_flash_gsmart_gmailoobe.swf" name="Gmail Oobe" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6117" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_rocks.swf" name="DBZ - Moving rocks" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6118" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kamehameha_zigzag.swf" name="DBZ - Medium Kamehameha" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6119" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kameorb.swf" name="DBZ - Kamehameha Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6120" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_largeemerald.swf" name="DBZ - Large Knuckles Emerald" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6121" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_sonicfinal.swf" name="DBZ - Final Sonic BG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6122" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_bluepower.swf" name="DBZ - Blue Power" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6123" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_auraanim.swf" name="DBZ - Aura Animated" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6124" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_aura2.swf" name="DBZ - Aura 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6125" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_aura3.swf" name="DBZ - Aura 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6126" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_buraco.swf" name="DBZ - Buraco Ground break" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6127" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_blast1.swf" name="DBZ - Fire Blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6128" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_greenbeam.swf" name="DBZ - Large green beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6129" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_emerald.swf" name="DBZ - Emerald" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6130" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_gumorb.swf" name="DBZ - Bubble Gum Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6131" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_capsule.swf" name="DBZ - Sonic Capsule" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6132" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_evilgreenorb.swf" name="DBZ - Evil Green Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6133" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_evilgreenorb_alternate.swf" name="DBZ - Evil Green Orb (alternate)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6134" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_aura4.swf" name="DBZ - Aura 4" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6135" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_orangeaura.swf" name="DBZ - Aura 5 (orange)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6136" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_demonaura.swf" name="DBZ - Aura 6 (demon red)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6137" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_laserbeam1.swf" name="DBZ - " holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6138" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_evilgreenorb_redpower.swf" name="DBZ - Red Powered Evil Green Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6139" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_blast2.swf" name="DBZ - Cyan Blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6140" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_firebeam.swf" name="DBZ - Fire Beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6141" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_waterbeam.swf" name="DBZ - Water Beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6142" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_punchorb.swf" name="DBZ - Punch Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6143" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_electricorb.swf" name="DBZ - Electric Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6144" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kameorb_big.swf" name="DBZ - Kamehameha Orb (big)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6145" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_punchcombo.swf" name="DBZ - Combo Punch" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6146" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_yellowtriplefire.swf" name="DBZ - Gold Triple Fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6147" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_sawbeam.swf" name="DBZ - Saw beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6148" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_purplepower.swf" name="DBZ - Purple Power" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6149" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_bigaura.swf" name="DBZ - Big Aura" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6150" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_redbigfirecircle.swf" name="DBZ - Big Fire Dragon Circle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6151" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_greenbeamorb2.swf" name="DBZ - Green Normal Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6152" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kameorb_bigger.swf" name="DBZ - Kamehameha Orb (giant)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6153" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_lavabeam.swf" name="DBZ - Lava Beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6154" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_doublebeam.swf" name="DBZ - Double Blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6155" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_greenbeam_long.swf" name="DBZ - Long green beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6156" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_shieldblast.swf" name="DBZ - Shield Blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6157" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_tornado.swf" name="DBZ - Tornado" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6158" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_purpleblueorb.swf" name="DBZ - Purple-blue Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6159" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_evilmagentabeam.swf" name="DBZ - Super magenta beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6160" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_atomicbomb.swf" name="DBZ - Nuke bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6161" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_csglowing.swf" name="DBZ - Blue CS Glowing" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6162" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_eviltornado.swf" name="DBZ - Dark Tornado" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6163" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_aurashock.swf" name="DBZ - Aura (electric shock)" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6164" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_electricball.swf" name="DBZ - Electric Ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6165" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_laserexplode.swf" name="DBZ - Laser explode" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6166" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_firebeamexplode.swf" name="DBZ - Fire beam explode" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6167" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_lavablast.swf" name="DBZ - Lava fire blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6168" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_yellowfire.swf" name="DBZ - Yellow fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6169" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_lavabomb.swf" name="DBZ - Lava bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6170" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_focusflash.swf" name="DBZ - Focus flash" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6171" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_glowingredball.swf" name="DBZ - Glowing red ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6172" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_smallblast.swf" name="DBZ - Small blast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6173" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_heal.swf" name="DBZ - Healing effect" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6174" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_rangerweapon.swf" name="DBZ - Ranger weapon blaster" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6175" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_blastfire.swf" name="DBZ - Kamehameha fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6176" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_lightningstruck1.swf" name="DBZ - Lightning struck" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6177" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kiload.swf" name="DBZ - Ki load" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6178" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kronicbg.swf" name="DBZ - Kronic BG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6179" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_shrinezbg.swf" name="DBZ - Shrinez BG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6180" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_marioentrance.swf" name="DBZ - Mario entrance" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6181" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_jumpsneak.swf" name="DBZ - Rock sneak jump" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6182" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_meteorsmas.swf" name="DBZ - Meteor SMAS" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6183" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_mechasonic.swf" name="DBZ - Mecha Sonic" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6184" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_darkshote.swf" name="DBZ - Dark shote" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6185" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_bigshot.swf" name="DBZ - Big shot" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6186" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_bigpro.swf" name="DBZ - Big pro transform" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6187" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_kyubbibla.swf" name="DBZ - " holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6188" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_magentalaser.swf" name="DBZ - Magenta Kamehameha" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6189" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_cometfire.swf" name="DBZ - Comet fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6190" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_tauntfx.swf" name="DBZ - Taunt FX" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6191" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_upsmash.swf" name="DBZ - Up Smash" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6192" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_sparkhit.swf" name="DBZ - Spark hit" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6193" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_spearcharge.swf" name="DBZ - Spear charge" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6194" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_specialbg.swf" name="DBZ - Special BG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6195" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_tailsorb.swf" name="DBZ - Tails Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6196" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_buracodirt.swf" name="DBZ - Buraco Ground break dirt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6197" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_lightningstruck2.swf" name="DBZ - Lightning struck 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6198" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_tornado_desert.swf" name="DBZ - Desert tornado" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6199" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_sparkhit2.swf" name="DBZ - Spark hit 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6200" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_slugbomb.swf" name="DBZ - Slug air bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6201" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_puffrun.swf" name="DBZ - Running puff" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6202" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_leavesyoshi1.swf" name="DBZ - Yoshi leaves 1" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6203" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_oldgrass1.swf" name="DBZ - Old grass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6204" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_yoshirock.swf" name="DBZ - Yoshi rock" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6205" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_yoshibg.swf" name="DBZ - Yoshi BG" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6206" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_electricrangergem.swf" name="DBZ - Electric ranger gem" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6207" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_ovalbomb.swf" name="DBZ - Oval nuke" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6208" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_blueshinepower.swf" name="DBZ - Blue shine power" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6209" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_leavesyoshi2.swf" name="DBZ - Yoshi leaves 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6210" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_slugbomb2.swf" name="DBZ - Thin slug bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6211" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_sunorb.swf" name="DBZ - Sun orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6212" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_water1.swf" name="DBZ - 2D Water" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6213" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_electricbottom.swf" name="DBZ - Electric ground" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6214" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_purpleorb.swf" name="DBZ - Purple Orb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6215" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_superbeam.swf" name="DBZ - Super Kamehameha" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6216" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_slugbomb3.swf" name="DBZ - Slug bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6217" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_fireball.swf" name="DBZ - Fireball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6218" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_specialbg2.swf" name="DBZ - Special BG 2" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6219" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_buracohit.swf" name="DBZ - Buraco Ground hit" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6220" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_firesonicfire.swf" name="DBZ - Fire Sonic fire" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6221" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_firesonicspinbeam.swf" name="DBZ - Fire Sonic spin beam" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6222" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_firesonichit.swf" name="DBZ - Fire Sonic hitter" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6223" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_stillbomb.swf" name="DBZ - Still slug circle bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6224" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_fallhit.swf" name="DBZ - Fall hit" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6225" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_specialbg3.swf" name="DBZ - Special BG 3" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6226" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_dash1.swf" name="DBZ - Dash" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6227" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_placeat.swf" name="DBZ - Place at ground" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6228" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_supersparkhit.swf" name="DBZ - Super Spark hit" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6229" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_fallhitpower2.swf" name="DBZ - Fall hit power" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6230" money="0" sharing="0"/>
+  <prop id="goani_new_dbz_smashpower.swf" name="DBZ - Smash powerup" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="6231" money="0" sharing="0"/>
   <prop id="msp_flat_tv" name="Flat screen TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_flat_tv_flat_tv_front.swf" enable="Y" is_premium="N" aid="10463" money="0" sharing="0">
     <state id="msp_flat_tv_flat_tv_front.swf" name="front" enable="Y" default="Y"/>
     <state id="msp_flat_tv_flat_tv_front_non.swf" name="front transparent" enable="Y"/>
@@ -21721,6 +21835,130 @@
   <sound id="GoAni_new_virt_SMLgameover.mp3" name="Super Mario Land - Game over" downloadtype="progressive" subtype="soundeffect" duration="6263" enable="Y" is_premium="N" aid="50196" money="0" sharing="0"/>
   <sound id="GoAni_new_virt_SMLclear.mp3" name="Super Mario Land - Course clear" downloadtype="progressive" subtype="soundeffect" duration="3595" enable="Y" is_premium="N" aid="50197" money="0" sharing="0"/>
   <sound id="GoAni_new_HotelMarioLife.mp3" name="Hotel Mario - Lost a life" downloadtype="progressive" subtype="soundeffect" duration="3758" enable="Y" is_premium="N" aid="50198" money="0" sharing="0"/>
+  <sound id="goani_new_squidspin.mp3" name="Squidspin" downloadtype="progressive" subtype="soundeffect" duration="31403" enable="Y" is_premium="N" aid="50199" money="0" sharing="0"/>
+  <sound id="goani_new_babycryloud.mp3" name="Baby Cry Loud" downloadtype="progressive" subtype="soundeffect" duration="6696" enable="Y" is_premium="N" aid="51000" money="0" sharing="0"/>
+  <sound id="goani_new_explodeloud.mp3" name="Loud Explode" downloadtype="progressive" subtype="soundeffect" duration="5964" enable="Y" is_premium="N" aid="51001" money="0" sharing="0"/>
+  <sound id="goani_new_wowloud.mp3" name="Loud Wow" downloadtype="progressive" subtype="soundeffect" duration="9401" enable="Y" is_premium="N" aid="51002" money="0" sharing="0"/>
+  <sound id="goani_new_mcdonaldsbgm.mp3" name="McDonalds BGM" downloadtype="progressive" subtype="soundeffect" duration="100134" enable="Y" is_premium="N" aid="51003" money="0" sharing="0"/>
+  <sound id="goani_new_oggy2.mp3" name="Oggy and the Cockroaches - Ending" downloadtype="progressive" subtype="soundeffect" duration="29273" enable="Y" is_premium="N" aid="51004" money="0" sharing="0"/>
+  <sound id="goani_new_xilamnowhistle.mp3" name="Xilam Logo No Whistle" downloadtype="progressive" subtype="soundeffect" duration="6414" enable="Y" is_premium="N" aid="51005" money="0" sharing="0"/>
+  <sound id="goani_new_felixcontinue2.mp3" name="Felix the HET - Continue (remastered)" downloadtype="progressive" subtype="soundeffect" duration="12842" enable="Y" is_premium="N" aid="51006" money="0" sharing="0"/>
+  <sound id="GoAni_new_HotelMarioLife2.mp3" name="Hotel Mario - Lost a life (remastered)" downloadtype="progressive" subtype="soundeffect" duration="3758" enable="Y" is_premium="N" aid="51007" money="0" sharing="0"/>
+  <sound id="goani_new_smwdie.mp3" name="SMW die" downloadtype="progressive" subtype="soundeffect" duration="3773" enable="Y" is_premium="N" aid="51008" money="0" sharing="0"/>
+  <sound id="goani_new_lmaxstartup.mp3" name="Leapster L-MAX Startup" downloadtype="progressive" subtype="soundeffect" duration="3680" enable="Y" is_premium="N" aid="51009" money="0" sharing="0"/>
+  <sound id="goani_new_WeddingMarchMMF.mp3" name="Wedding March MMF" downloadtype="progressive" subtype="soundeffect" duration="53442" enable="Y" is_premium="N" aid="51010" money="0" sharing="0"/>
+  <sound id="goani_new_BattlelinesSettings.mp3" name="Full Auto 2 Battlelines PSP - Settings" downloadtype="progressive" subtype="soundeffect" duration="224906" enable="Y" is_premium="N" aid="51011" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_quietshoot.mp3" name="CS 1.6 - Quiet shoot" downloadtype="progressive" subtype="soundeffect" duration="577" enable="Y" is_premium="N" aid="51012" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_quietshoot2.mp3" name="CS 1.6 - Quiet shoot 2" downloadtype="progressive" subtype="soundeffect" duration="567" enable="Y" is_premium="N" aid="51013" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_woodbreak4.mp3" name="CS 1.6 - Wood break 4" downloadtype="progressive" subtype="soundeffect" duration="608" enable="Y" is_premium="N" aid="51014" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_woodbreak3.mp3" name="CS 1.6 - Wood break 3" downloadtype="progressive" subtype="soundeffect" duration="543" enable="Y" is_premium="N" aid="51015" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_woodbreak2.mp3" name="CS 1.6 - Wood break 2" downloadtype="progressive" subtype="soundeffect" duration="581" enable="Y" is_premium="N" aid="51016" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_woodbreak.mp3" name="CS 1.6 - Wood break" downloadtype="progressive" subtype="soundeffect" duration="562" enable="Y" is_premium="N" aid="51017" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bustflesh2.mp3" name="CS 1.6 - Bust flesh" downloadtype="progressive" subtype="soundeffect" duration="548" enable="Y" is_premium="N" aid="51018" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bustglass3.mp3" name="CS 1.6 - Bust glass 2" downloadtype="progressive" subtype="soundeffect" duration="2607" enable="Y" is_premium="N" aid="51019" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bustglass2.mp3" name="CS 1.6 - Bust glass" downloadtype="progressive" subtype="soundeffect" duration="958" enable="Y" is_premium="N" aid="51020" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_glass1.mp3" name="CS 1.6 - Glass" downloadtype="progressive" subtype="soundeffect" duration="494" enable="Y" is_premium="N" aid="51021" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_glass2.mp3" name="CS 1.6 - Glass 2" downloadtype="progressive" subtype="soundeffect" duration="843" enable="Y" is_premium="N" aid="51022" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_glass3.mp3" name="CS 1.6 - Glass 3" downloadtype="progressive" subtype="soundeffect" duration="762" enable="Y" is_premium="N" aid="51023" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_glass4.mp3" name="CS 1.6 - Glass 4" downloadtype="progressive" subtype="soundeffect" duration="550" enable="Y" is_premium="N" aid="51024" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_killchicken.mp3" name="CS 1.6 - Kill Chicken" downloadtype="progressive" subtype="soundeffect" duration="283" enable="Y" is_premium="N" aid="51025" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_planedrone.mp3" name="CS 1.6 - Plane Drone" downloadtype="progressive" subtype="soundeffect" duration="10392" enable="Y" is_premium="N" aid="51026" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_suitgeok.mp3" name="CS 1.6 - Suit appear" downloadtype="progressive" subtype="soundeffect" duration="1477" enable="Y" is_premium="N" aid="51027" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_medshot.mp3" name="CS 1.6 - Medicine shot" downloadtype="progressive" subtype="soundeffect" duration="701" enable="Y" is_premium="N" aid="51028" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_medcharge.mp3" name="CS 1.6 - Medicine charge" downloadtype="progressive" subtype="soundeffect" duration="801" enable="Y" is_premium="N" aid="51029" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_glock.mp3" name="CS 1.6 - Glock" downloadtype="progressive" subtype="soundeffect" duration="943" enable="Y" is_premium="N" aid="51030" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_mineactivate.mp3" name="CS 1.6 - Mine activate" downloadtype="progressive" subtype="soundeffect" duration="268" enable="Y" is_premium="N" aid="51031" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_ump.mp3" name="CS 1.6 - UMP" downloadtype="progressive" subtype="soundeffect" duration="699" enable="Y" is_premium="N" aid="51032" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_ak47.mp3" name="CS 1.6 - AK47" downloadtype="progressive" subtype="soundeffect" duration="1176" enable="Y" is_premium="N" aid="51033" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_awp.mp3" name="CS 1.6 - AWP" downloadtype="progressive" subtype="soundeffect" duration="1829" enable="Y" is_premium="N" aid="51034" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_aug.mp3" name="CS 1.6 - AUG" downloadtype="progressive" subtype="soundeffect" duration="1123" enable="Y" is_premium="N" aid="51035" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_m3reloadshell.mp3" name="CS 1.6 - M3 shell reload" downloadtype="progressive" subtype="soundeffect" duration="365" enable="Y" is_premium="N" aid="51036" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_m3pump.mp3" name="CS 1.6 - M3 pump" downloadtype="progressive" subtype="soundeffect" duration="358" enable="Y" is_premium="N" aid="51037" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_flashbang.mp3" name="CS 1.6 - Flashbang" downloadtype="progressive" subtype="soundeffect" duration="1415" enable="Y" is_premium="N" aid="51038" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_flashbang2.mp3" name="CS 1.6 - Flashbang 2" downloadtype="progressive" subtype="soundeffect" duration="1415" enable="Y" is_premium="N" aid="51039" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_elite.mp3" name="CS 1.6 - Elite" downloadtype="progressive" subtype="soundeffect" duration="1298" enable="Y" is_premium="N" aid="51040" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_deagle.mp3" name="CS 1.6 - Deagle" downloadtype="progressive" subtype="soundeffect" duration="1434" enable="Y" is_premium="N" aid="51041" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_deagle2.mp3" name="CS 1.6 - Deagle 2" downloadtype="progressive" subtype="soundeffect" duration="1146" enable="Y" is_premium="N" aid="51042" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sbarrel.mp3" name="CS 1.6 - S Barrel" downloadtype="progressive" subtype="soundeffect" duration="1039" enable="Y" is_premium="N" aid="51043" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_m3bullet.mp3" name="CS 1.6 - M3 bullet" downloadtype="progressive" subtype="soundeffect" duration="707" enable="Y" is_premium="N" aid="51044" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_rocketfire.mp3" name="CS 1.6 - Rocket fire" downloadtype="progressive" subtype="soundeffect" duration="427" enable="Y" is_premium="N" aid="51045" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_rocket.mp3" name="CS 1.6 - Rocket" downloadtype="progressive" subtype="soundeffect" duration="2494" enable="Y" is_premium="N" aid="51046" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_ric3.mp3" name="CS 1.6 - Ric 3" downloadtype="progressive" subtype="soundeffect" duration="482" enable="Y" is_premium="N" aid="51047" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_ric2.mp3" name="CS 1.6 - Ric 2" downloadtype="progressive" subtype="soundeffect" duration="628" enable="Y" is_premium="N" aid="51048" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_ric1.mp3" name="CS 1.6 - Ric 1" downloadtype="progressive" subtype="soundeffect" duration="544" enable="Y" is_premium="N" aid="51049" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_reload3.mp3" name="CS 1.6 - Reload 3" downloadtype="progressive" subtype="soundeffect" duration="607" enable="Y" is_premium="N" aid="51050" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_reload2.mp3" name="CS 1.6 - Reload 2" downloadtype="progressive" subtype="soundeffect" duration="271" enable="Y" is_premium="N" aid="51051" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_reload1.mp3" name="CS 1.6 - Reload 1" downloadtype="progressive" subtype="soundeffect" duration="215" enable="Y" is_premium="N" aid="51052" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_explode3.mp3" name="CS 1.6 - Explode 1" downloadtype="progressive" subtype="soundeffect" duration="1301" enable="Y" is_premium="N" aid="51053" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_explode4.mp3" name="CS 1.6 - Explode 2" downloadtype="progressive" subtype="soundeffect" duration="1296" enable="Y" is_premium="N" aid="51054" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_explode5.mp3" name="CS 1.6 - Explode 3" downloadtype="progressive" subtype="soundeffect" duration="1305" enable="Y" is_premium="N" aid="51055" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_357.mp3" name="CS 1.6 - 357" downloadtype="progressive" subtype="soundeffect" duration="1060" enable="Y" is_premium="N" aid="51056" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_327_2.mp3" name="CS 1.6 - 357 2" downloadtype="progressive" subtype="soundeffect" duration="1064" enable="Y" is_premium="N" aid="51057" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_dbarrel.mp3" name="CS 1.6 - D Barrel" downloadtype="progressive" subtype="soundeffect" duration="1374" enable="Y" is_premium="N" aid="51058" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_crowbar1.mp3" name="CS 1.6 - Crowbar 1" downloadtype="progressive" subtype="soundeffect" duration="694" enable="Y" is_premium="N" aid="51059" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_crowbar2.mp3" name="CS 1.6 - Crowbar 2" downloadtype="progressive" subtype="soundeffect" duration="490" enable="Y" is_premium="N" aid="51060" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_crowbar_miss.mp3" name="CS 1.6 - Crowbar miss" downloadtype="progressive" subtype="soundeffect" duration="344" enable="Y" is_premium="N" aid="51061" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_scoutfire.mp3" name="CS 1.6 - Scout fire" downloadtype="progressive" subtype="soundeffect" duration="1298" enable="Y" is_premium="N" aid="51062" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_tmp.mp3" name="CS 1.6 - TMP" downloadtype="progressive" subtype="soundeffect" duration="253" enable="Y" is_premium="N" aid="51063" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sliderelease.mp3" name="CS 1.6 - Slide release" downloadtype="progressive" subtype="soundeffect" duration="471" enable="Y" is_premium="N" aid="51064" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_slideback.mp3" name="CS 1.6 - Slide back" downloadtype="progressive" subtype="soundeffect" duration="260" enable="Y" is_premium="N" aid="51065" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_zoom.mp3" name="CS 1.6 - Zoom" downloadtype="progressive" subtype="soundeffect" duration="357" enable="Y" is_premium="N" aid="51066" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_smokegrenade.mp3" name="CS 1.6 - Smoke grenade" downloadtype="progressive" subtype="soundeffect" duration="1010" enable="Y" is_premium="N" aid="51067" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_xm1014.mp3" name="CS 1.6 - XM1014" downloadtype="progressive" subtype="soundeffect" duration="980" enable="Y" is_premium="N" aid="51068" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_c4explode.mp3" name="CS 1.6 - C4 explode" downloadtype="progressive" subtype="soundeffect" duration="3740" enable="Y" is_premium="N" aid="51069" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_g3sg1.mp3" name="CS 1.6 - G3SG1" downloadtype="progressive" subtype="soundeffect" duration="1500" enable="Y" is_premium="N" aid="51070" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_reloadshot.mp3" name="CS 1.6 - Reload shot" downloadtype="progressive" subtype="soundeffect" duration="1367" enable="Y" is_premium="N" aid="51071" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_reloadgun.mp3" name="CS 1.6 - Reload gun" downloadtype="progressive" subtype="soundeffect" duration="1561" enable="Y" is_premium="N" aid="51072" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_m3.mp3" name="CS 1.6 - M3" downloadtype="progressive" subtype="soundeffect" duration="1601" enable="Y" is_premium="N" aid="51073" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_knifehitwall.mp3" name="CS 1.6 - Knife hit wall" downloadtype="progressive" subtype="soundeffect" duration="490" enable="Y" is_premium="N" aid="51074" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_grenadebounce.mp3" name="CS 1.6 - Grenade bounce" downloadtype="progressive" subtype="soundeffect" duration="485" enable="Y" is_premium="N" aid="51075" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_grenade.mp3" name="CS 1.6 - Grenade" downloadtype="progressive" subtype="soundeffect" duration="3255" enable="Y" is_premium="N" aid="51076" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_grenade2.mp3" name="CS 1.6 - Grenade 2" downloadtype="progressive" subtype="soundeffect" duration="3255" enable="Y" is_premium="N" aid="51077" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_knifestab.mp3" name="CS 1.6 - Knife stab" downloadtype="progressive" subtype="soundeffect" duration="1322" enable="Y" is_premium="N" aid="51078" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bhit1.mp3" name="CS 1.6 - Human Hit 1" downloadtype="progressive" subtype="soundeffect" duration="316" enable="Y" is_premium="N" aid="51079" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bhit2.mp3" name="CS 1.6 - Human Hit 2" downloadtype="progressive" subtype="soundeffect" duration="345" enable="Y" is_premium="N" aid="51080" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_bhit3.mp3" name="CS 1.6 - Human Hit 3" downloadtype="progressive" subtype="soundeffect" duration="294" enable="Y" is_premium="N" aid="51081" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_die1.mp3" name="CS 1.6 - Die 1" downloadtype="progressive" subtype="soundeffect" duration="957" enable="Y" is_premium="N" aid="51082" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_die2.mp3" name="CS 1.6 - Die 2" downloadtype="progressive" subtype="soundeffect" duration="1983" enable="Y" is_premium="N" aid="51083" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_die3.mp3" name="CS 1.6 - Die 3" downloadtype="progressive" subtype="soundeffect" duration="980" enable="Y" is_premium="N" aid="51084" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_death6.mp3" name="CS 1.6 - Death 6" downloadtype="progressive" subtype="soundeffect" duration="1256" enable="Y" is_premium="N" aid="51085" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sprayer.mp3" name="CS 1.6 - Sprayer" downloadtype="progressive" subtype="soundeffect" duration="907" enable="Y" is_premium="N" aid="51086" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_fireinhole.mp3" name="CS 1.6 - CT Fire in hole" downloadtype="progressive" subtype="soundeffect" duration="1431" enable="Y" is_premium="N" aid="51087" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_waterrun.mp3" name="CS 1.6 - Water run" downloadtype="progressive" subtype="soundeffect" duration="2575" enable="Y" is_premium="N" aid="51088" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_thunderclap.mp3" name="CS 1.6 - Thunder clap" downloadtype="progressive" subtype="soundeffect" duration="5250" enable="Y" is_premium="N" aid="51089" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sparrow.mp3" name="CS 1.6 - Sparrow" downloadtype="progressive" subtype="soundeffect" duration="8590" enable="Y" is_premium="N" aid="51090" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sheep.mp3" name="CS 1.6 - Sheep" downloadtype="progressive" subtype="soundeffect" duration="3135" enable="Y" is_premium="N" aid="51091" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_rdwaves.mp3" name="CS 1.6 - RD Waves" downloadtype="progressive" subtype="soundeffect" duration="18583" enable="Y" is_premium="N" aid="51092" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_rain.mp3" name="CS 1.6 - Rain" downloadtype="progressive" subtype="soundeffect" duration="4341" enable="Y" is_premium="N" aid="51093" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_opera.mp3" name="CS 1.6 - Opera" downloadtype="progressive" subtype="soundeffect" duration="112708" enable="Y" is_premium="N" aid="51094" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_rotormachine.mp3" name="CS 1.6 - Rotor machine" downloadtype="progressive" subtype="soundeffect" duration="2800" enable="Y" is_premium="N" aid="51095" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_drips.mp3" name="CS 1.6 - Drips" downloadtype="progressive" subtype="soundeffect" duration="7306" enable="Y" is_premium="N" aid="51097" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_3dmhills.mp3" name="CS 1.6 - 3dm hills" downloadtype="progressive" subtype="soundeffect" duration="12525" enable="Y" is_premium="N" aid="51098" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_doorbell.mp3" name="CS 1.6 - Doorbell" downloadtype="progressive" subtype="soundeffect" duration="2400" enable="Y" is_premium="N" aid="51099" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_3dmstart.mp3" name="CS 1.6 - 3dm start" downloadtype="progressive" subtype="soundeffect" duration="8037" enable="Y" is_premium="N" aid="51100" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_3dmbridge.mp3" name="CS 1.6 - 3dm bridge" downloadtype="progressive" subtype="soundeffect" duration="2926" enable="Y" is_premium="N" aid="51101" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_wind.mp3" name="CS 1.6 - Wind" downloadtype="progressive" subtype="soundeffect" duration="13179" enable="Y" is_premium="N" aid="51102" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_sparks.mp3" name="CS 1.6 - Sparks" downloadtype="progressive" subtype="soundeffect" duration="9819" enable="Y" is_premium="N" aid="51103" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_guit1.mp3" name="CS 1.6 - Guit1" downloadtype="progressive" subtype="soundeffect" duration="45760" enable="Y" is_premium="N" aid="51104" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_crow.mp3" name="CS 1.6 - Crow" downloadtype="progressive" subtype="soundeffect" duration="2565" enable="Y" is_premium="N" aid="51105" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_cow.mp3" name="CS 1.6 - Cow" downloadtype="progressive" subtype="soundeffect" duration="2087" enable="Y" is_premium="N" aid="51106" money="0" sharing="0"/>
+  <sound id="goani_new_SMLRemix.mp3" name="Super Mario Land Birabuto Remix" downloadtype="progressive" subtype="soundeffect" duration="25813" enable="Y" is_premium="N" aid="51107" money="0" sharing="0"/>
+  <sound id="goani_new_SML2Alt.mp3" name="Super Mario Land 2 Athletic Theme (Alternate)" downloadtype="progressive" subtype="soundeffect" duration="52454" enable="Y" is_premium="N" aid="51108" money="0" sharing="0"/>
+  <sound id="goani_new_SAWin.mp3" name="Sonic Advance Boss Complete" downloadtype="progressive" subtype="soundeffect" duration="7872" enable="Y" is_premium="N" aid="51109" money="0" sharing="0"/>
+  <sound id="goani_new_SAActComplete.mp3" name="Sonic Advance Act Complete (Intro)" downloadtype="progressive" subtype="soundeffect" duration="3889" enable="Y" is_premium="N" aid="51110" money="0" sharing="0"/>
+  <sound id="goani_new_SMApaint.mp3" name="Super Mario Advance Paint" downloadtype="progressive" subtype="soundeffect" duration="145918" enable="Y" is_premium="N" aid="51111" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_beklo.mp3" name="Punishment - Beklo" downloadtype="progressive" subtype="soundeffect" duration="201008" enable="Y" is_premium="N" aid="51112" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_notificational.mp3" name="Punishment - Notificational" downloadtype="progressive" subtype="soundeffect" duration="37185" enable="Y" is_premium="N" aid="51113" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_pixiedusting.mp3" name="Punishment - Pixiedusting" downloadtype="progressive" subtype="soundeffect" duration="10182" enable="Y" is_premium="N" aid="51114" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_ringmod.mp3" name="Punishment - Ringmod" downloadtype="progressive" subtype="soundeffect" duration="15987" enable="Y" is_premium="N" aid="51115" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_data.mp3" name="Punishment - Data" downloadtype="progressive" subtype="soundeffect" duration="33593" enable="Y" is_premium="N" aid="51116" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_raw.mp3" name="Punishment - Raw" downloadtype="progressive" subtype="soundeffect" duration="58447" enable="Y" is_premium="N" aid="51117" money="0" sharing="0"/>
+  <sound id="goani_new_scream7.mp3" name="Scream 7" downloadtype="progressive" subtype="soundeffect" duration="30375" enable="Y" is_premium="N" aid="51118" money="0" sharing="0"/>
+  <sound id="goani_new_screamlaugh.mp3" name="Scream Laughing" downloadtype="progressive" subtype="soundeffect" duration="15188" enable="Y" is_premium="N" aid="51119" money="0" sharing="0"/>
+  <sound id="goani_new_psychoviolin.mp3" name="Psycho Violin" downloadtype="progressive" subtype="soundeffect" duration="4059" enable="Y" is_premium="N" aid="51120" money="0" sharing="0"/>
+  <sound id="goani_new_dicwarn.mp3" name="Dic Warning" downloadtype="progressive" subtype="soundeffect" duration="3406" enable="Y" is_premium="N" aid="51121" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_data12.mp3" name="Punishment - Data 12" downloadtype="progressive" subtype="soundeffect" duration="5674" enable="Y" is_premium="N" aid="51122" money="0" sharing="0"/>
+  <sound id="goani_new_punishment_seizure.mp3" name="Punishment - Seizure" downloadtype="progressive" subtype="soundeffect" duration="2522" enable="Y" is_premium="N" aid="51123" money="0" sharing="0"/>
   <sound id="122_short_dance_of_the_sugar_plum_fairy_0061.mp3" name="Dance of the Sugar Plum Fairy" downloadtype="progressive" subtype="bgmusic" duration="60473" enable="Y" is_premium="N" aid="28101" money="0" sharing="0">
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0019.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="18051" enable="Y" is_premium="N" aid="28102" money="0" sharing="0"/>
     <variation id="122_short_dance_of_the_sugar_plum_fairy_0035.mp3" name="Short track" downloadtype="progressive" subtype="bgmusic" duration="34560" enable="Y" is_premium="N" aid="28103" money="0" sharing="0"/>
