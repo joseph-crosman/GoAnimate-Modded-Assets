@@ -21847,7 +21847,7 @@
   <sound id="goani_new_smwdie.mp3" name="SMW die" downloadtype="progressive" subtype="soundeffect" duration="3773" enable="Y" is_premium="N" aid="51008" money="0" sharing="0"/>
   <sound id="goani_new_lmaxstartup.mp3" name="Leapster L-MAX Startup" downloadtype="progressive" subtype="soundeffect" duration="3680" enable="Y" is_premium="N" aid="51009" money="0" sharing="0"/>
   <sound id="goani_new_WeddingMarchMMF.mp3" name="Wedding March MMF" downloadtype="progressive" subtype="bgmusic" duration="53442" enable="Y" is_premium="N" aid="51010" money="0" sharing="0"/>
-  <sound id="goani_new_BattlelinesSettings.mp3" name="Full Auto 2 Battlelines PSP - Settings" downloadtype="progressive" subtype="soundeffect" duration="224906" enable="Y" is_premium="N" aid="51011" money="0" sharing="0"/>
+  <sound id="goani_new_BattlelinesSettings.mp3" name="Full Auto 2 Battlelines PSP - Settings" downloadtype="progressive" subtype="bgmusic" duration="224906" enable="Y" is_premium="N" aid="51011" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_quietshoot.mp3" name="CS 1.6 - Quiet shoot" downloadtype="progressive" subtype="soundeffect" duration="577" enable="Y" is_premium="N" aid="51012" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_quietshoot2.mp3" name="CS 1.6 - Quiet shoot 2" downloadtype="progressive" subtype="soundeffect" duration="567" enable="Y" is_premium="N" aid="51013" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_woodbreak4.mp3" name="CS 1.6 - Wood break 4" downloadtype="progressive" subtype="soundeffect" duration="608" enable="Y" is_premium="N" aid="51014" money="0" sharing="0"/>
