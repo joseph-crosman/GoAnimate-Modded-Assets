@@ -21835,18 +21835,18 @@
   <sound id="GoAni_new_virt_SMLgameover.mp3" name="Super Mario Land - Game over" downloadtype="progressive" subtype="soundeffect" duration="6263" enable="Y" is_premium="N" aid="50196" money="0" sharing="0"/>
   <sound id="GoAni_new_virt_SMLclear.mp3" name="Super Mario Land - Course clear" downloadtype="progressive" subtype="soundeffect" duration="3595" enable="Y" is_premium="N" aid="50197" money="0" sharing="0"/>
   <sound id="GoAni_new_HotelMarioLife.mp3" name="Hotel Mario - Lost a life" downloadtype="progressive" subtype="soundeffect" duration="3758" enable="Y" is_premium="N" aid="50198" money="0" sharing="0"/>
-  <sound id="goani_new_squidspin.mp3" name="Squidspin" downloadtype="progressive" subtype="soundeffect" duration="31403" enable="Y" is_premium="N" aid="50199" money="0" sharing="0"/>
+  <sound id="goani_new_squidspin.mp3" name="Squidspin" downloadtype="progressive" subtype="bgmusic" duration="31403" enable="Y" is_premium="N" aid="50199" money="0" sharing="0"/>
   <sound id="goani_new_babycryloud.mp3" name="Baby Cry Loud" downloadtype="progressive" subtype="soundeffect" duration="6696" enable="Y" is_premium="N" aid="51000" money="0" sharing="0"/>
   <sound id="goani_new_explodeloud.mp3" name="Loud Explode" downloadtype="progressive" subtype="soundeffect" duration="5964" enable="Y" is_premium="N" aid="51001" money="0" sharing="0"/>
   <sound id="goani_new_wowloud.mp3" name="Loud Wow" downloadtype="progressive" subtype="soundeffect" duration="9401" enable="Y" is_premium="N" aid="51002" money="0" sharing="0"/>
-  <sound id="goani_new_mcdonaldsbgm.mp3" name="McDonalds BGM" downloadtype="progressive" subtype="soundeffect" duration="100134" enable="Y" is_premium="N" aid="51003" money="0" sharing="0"/>
-  <sound id="goani_new_oggy2.mp3" name="Oggy and the Cockroaches - Ending" downloadtype="progressive" subtype="soundeffect" duration="29273" enable="Y" is_premium="N" aid="51004" money="0" sharing="0"/>
+  <sound id="goani_new_mcdonaldsbgm.mp3" name="McDonalds BGM" downloadtype="progressive" subtype="bgmusic" duration="100134" enable="Y" is_premium="N" aid="51003" money="0" sharing="0"/>
+  <sound id="goani_new_oggy2.mp3" name="Oggy and the Cockroaches - Ending" downloadtype="progressive" subtype="bgmusic" duration="29273" enable="Y" is_premium="N" aid="51004" money="0" sharing="0"/>
   <sound id="goani_new_xilamnowhistle.mp3" name="Xilam Logo No Whistle" downloadtype="progressive" subtype="soundeffect" duration="6414" enable="Y" is_premium="N" aid="51005" money="0" sharing="0"/>
-  <sound id="goani_new_felixcontinue2.mp3" name="Felix the HET - Continue (remastered)" downloadtype="progressive" subtype="soundeffect" duration="12842" enable="Y" is_premium="N" aid="51006" money="0" sharing="0"/>
+  <sound id="goani_new_felixcontinue2.mp3" name="Felix the HET - Continue (remastered)" downloadtype="progressive" subtype="bgmusic" duration="12842" enable="Y" is_premium="N" aid="51006" money="0" sharing="0"/>
   <sound id="GoAni_new_HotelMarioLife2.mp3" name="Hotel Mario - Lost a life (remastered)" downloadtype="progressive" subtype="soundeffect" duration="3758" enable="Y" is_premium="N" aid="51007" money="0" sharing="0"/>
   <sound id="goani_new_smwdie.mp3" name="SMW die" downloadtype="progressive" subtype="soundeffect" duration="3773" enable="Y" is_premium="N" aid="51008" money="0" sharing="0"/>
   <sound id="goani_new_lmaxstartup.mp3" name="Leapster L-MAX Startup" downloadtype="progressive" subtype="soundeffect" duration="3680" enable="Y" is_premium="N" aid="51009" money="0" sharing="0"/>
-  <sound id="goani_new_WeddingMarchMMF.mp3" name="Wedding March MMF" downloadtype="progressive" subtype="soundeffect" duration="53442" enable="Y" is_premium="N" aid="51010" money="0" sharing="0"/>
+  <sound id="goani_new_WeddingMarchMMF.mp3" name="Wedding March MMF" downloadtype="progressive" subtype="bgmusic" duration="53442" enable="Y" is_premium="N" aid="51010" money="0" sharing="0"/>
   <sound id="goani_new_BattlelinesSettings.mp3" name="Full Auto 2 Battlelines PSP - Settings" downloadtype="progressive" subtype="soundeffect" duration="224906" enable="Y" is_premium="N" aid="51011" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_quietshoot.mp3" name="CS 1.6 - Quiet shoot" downloadtype="progressive" subtype="soundeffect" duration="577" enable="Y" is_premium="N" aid="51012" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_quietshoot2.mp3" name="CS 1.6 - Quiet shoot 2" downloadtype="progressive" subtype="soundeffect" duration="567" enable="Y" is_premium="N" aid="51013" money="0" sharing="0"/>
@@ -21930,7 +21930,7 @@
   <sound id="goani_new_counterstrike_sheep.mp3" name="CS 1.6 - Sheep" downloadtype="progressive" subtype="soundeffect" duration="3135" enable="Y" is_premium="N" aid="51091" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_rdwaves.mp3" name="CS 1.6 - RD Waves" downloadtype="progressive" subtype="soundeffect" duration="18583" enable="Y" is_premium="N" aid="51092" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_rain.mp3" name="CS 1.6 - Rain" downloadtype="progressive" subtype="soundeffect" duration="4341" enable="Y" is_premium="N" aid="51093" money="0" sharing="0"/>
-  <sound id="goani_new_counterstrike_opera.mp3" name="CS 1.6 - Opera" downloadtype="progressive" subtype="soundeffect" duration="112708" enable="Y" is_premium="N" aid="51094" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_opera.mp3" name="CS 1.6 - Opera" downloadtype="progressive" subtype="bgmusic" duration="112708" enable="Y" is_premium="N" aid="51094" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_rotormachine.mp3" name="CS 1.6 - Rotor machine" downloadtype="progressive" subtype="soundeffect" duration="2800" enable="Y" is_premium="N" aid="51095" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_drips.mp3" name="CS 1.6 - Drips" downloadtype="progressive" subtype="soundeffect" duration="7306" enable="Y" is_premium="N" aid="51097" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_3dmhills.mp3" name="CS 1.6 - 3dm hills" downloadtype="progressive" subtype="soundeffect" duration="12525" enable="Y" is_premium="N" aid="51098" money="0" sharing="0"/>
@@ -21939,14 +21939,14 @@
   <sound id="goani_new_counterstrike_3dmbridge.mp3" name="CS 1.6 - 3dm bridge" downloadtype="progressive" subtype="soundeffect" duration="2926" enable="Y" is_premium="N" aid="51101" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_wind.mp3" name="CS 1.6 - Wind" downloadtype="progressive" subtype="soundeffect" duration="13179" enable="Y" is_premium="N" aid="51102" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_sparks.mp3" name="CS 1.6 - Sparks" downloadtype="progressive" subtype="soundeffect" duration="9819" enable="Y" is_premium="N" aid="51103" money="0" sharing="0"/>
-  <sound id="goani_new_counterstrike_guit1.mp3" name="CS 1.6 - Guit1" downloadtype="progressive" subtype="soundeffect" duration="45760" enable="Y" is_premium="N" aid="51104" money="0" sharing="0"/>
+  <sound id="goani_new_counterstrike_guit1.mp3" name="CS 1.6 - Guit1" downloadtype="progressive" subtype="bgmusic" duration="45760" enable="Y" is_premium="N" aid="51104" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_crow.mp3" name="CS 1.6 - Crow" downloadtype="progressive" subtype="soundeffect" duration="2565" enable="Y" is_premium="N" aid="51105" money="0" sharing="0"/>
   <sound id="goani_new_counterstrike_cow.mp3" name="CS 1.6 - Cow" downloadtype="progressive" subtype="soundeffect" duration="2087" enable="Y" is_premium="N" aid="51106" money="0" sharing="0"/>
-  <sound id="goani_new_SMLRemix.mp3" name="Super Mario Land Birabuto Remix" downloadtype="progressive" subtype="soundeffect" duration="25813" enable="Y" is_premium="N" aid="51107" money="0" sharing="0"/>
-  <sound id="goani_new_SML2Alt.mp3" name="Super Mario Land 2 Athletic Theme (Alternate)" downloadtype="progressive" subtype="soundeffect" duration="52454" enable="Y" is_premium="N" aid="51108" money="0" sharing="0"/>
+  <sound id="goani_new_SMLRemix.mp3" name="Super Mario Land Birabuto Remix" downloadtype="progressive" subtype="bgmusic" duration="25813" enable="Y" is_premium="N" aid="51107" money="0" sharing="0"/>
+  <sound id="goani_new_SML2Alt.mp3" name="Super Mario Land 2 Athletic Theme (Alternate)" downloadtype="progressive" subtype="bgmusic" duration="52454" enable="Y" is_premium="N" aid="51108" money="0" sharing="0"/>
   <sound id="goani_new_SAWin.mp3" name="Sonic Advance Boss Complete" downloadtype="progressive" subtype="soundeffect" duration="7872" enable="Y" is_premium="N" aid="51109" money="0" sharing="0"/>
   <sound id="goani_new_SAActComplete.mp3" name="Sonic Advance Act Complete (Intro)" downloadtype="progressive" subtype="soundeffect" duration="3889" enable="Y" is_premium="N" aid="51110" money="0" sharing="0"/>
-  <sound id="goani_new_SMApaint.mp3" name="Super Mario Advance Paint" downloadtype="progressive" subtype="soundeffect" duration="145918" enable="Y" is_premium="N" aid="51111" money="0" sharing="0"/>
+  <sound id="goani_new_SMApaint.mp3" name="Super Mario Advance Paint" downloadtype="progressive" subtype="bgmusic" duration="145918" enable="Y" is_premium="N" aid="51111" money="0" sharing="0"/>
   <sound id="goani_new_punishment_beklo.mp3" name="Punishment - Beklo" downloadtype="progressive" subtype="soundeffect" duration="201008" enable="Y" is_premium="N" aid="51112" money="0" sharing="0"/>
   <sound id="goani_new_punishment_notificational.mp3" name="Punishment - Notificational" downloadtype="progressive" subtype="soundeffect" duration="37185" enable="Y" is_premium="N" aid="51113" money="0" sharing="0"/>
   <sound id="goani_new_punishment_pixiedusting.mp3" name="Punishment - Pixiedusting" downloadtype="progressive" subtype="soundeffect" duration="10182" enable="Y" is_premium="N" aid="51114" money="0" sharing="0"/>
