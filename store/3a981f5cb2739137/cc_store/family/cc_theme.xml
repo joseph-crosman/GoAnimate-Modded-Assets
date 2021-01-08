@@ -24825,7 +24825,7 @@
         <state id="default" filename="default.swf"/>
         <state id="nothing" filename="nothing.swf"/>
     </component>
-	<component type="facedecoration" id="077" path="077" name="077" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="facedecoration" id="099" path="099" name="099" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
     <component type="beard" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
